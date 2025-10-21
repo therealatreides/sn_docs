@@ -1,4 +1,4 @@
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-0-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-0-0.png)
 # **Zurich Sales and Order** **Management**
 
 **Last updated: 10/15/2025**
@@ -332,7 +332,7 @@ features and applications.
 
 **Sales and Order Management applications and key features**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-5-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-5-0.png)
 
 
 **Benefits**
@@ -492,7 +492,7 @@ generates product orders.
 
 **Lead workflow in Sales and Order Management**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-8-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-8-0.png)
 
 
 **What to do next**
@@ -547,7 +547,7 @@ Engagement Sequences.
 
 **Creating and using Customer Engagement Sequences**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-9-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-9-3.png)
 
 
 **1.** As a sequence admin, create a customer engagement sequence such as a lead-nurturing
@@ -656,7 +656,7 @@ a potential customer and create an opportunity.
 
 **Opportunity workflow in Sales and Order Management**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-11-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-11-0.png)
 
 
 **Opportunity Management interface**
@@ -969,7 +969,7 @@ streamlines catalog navigation.
 
 **Product catalog user interface**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-15-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-15-1.png)
 
 
 **Product offering catalogs and categories**
@@ -1002,7 +1002,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Example catalog hierarchy with categories and product offerings**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-16-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-16-0.png)
 
 
 **Product offer bundling**
@@ -1100,7 +1100,7 @@ that particular customer.
 
 **Example of account-based price list**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-17-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-17-1.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 18
@@ -1132,7 +1132,7 @@ Sales Agreement Management.
 
 **Example of sales agreement price list**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-18-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-18-0.png)
 
 
 **Cost books**
@@ -1152,7 +1152,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Example cost book in quote details and margins in quote line**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-19-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-19-0.png)
 
 
 Your pricing admins or managers create a cost book and add a cost book line to set the
@@ -1365,7 +1365,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Product configurator interface**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-22-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-22-0.png)
 
 #### **Lead to Cash Core**
 
@@ -1441,7 +1441,7 @@ application or quotes can be created separately, depending on your configuration
 
 **Quote workflow in Sales and Order Management**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-23-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-23-0.png)
 
 
 **Quote Management user interface**
@@ -1488,7 +1488,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Quote Management Details tab**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-24-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-24-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 25
@@ -1994,7 +1994,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Order enrichment and decomposition process**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-31-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-31-0.png)
 
 
 The fulfillment plan uses decision tables to match the flow for a product order. The assigned
@@ -2007,7 +2007,7 @@ product order.
 
 **Order fulfillment workflow example**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-31-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-31-1.png)
 
 
 **Jeopardy Management**
@@ -2043,7 +2043,7 @@ managers.
 
 **Overview of Jeopardy Management**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-32-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-32-0.png)
 
 
 **How Jeopardy Management works**
@@ -2057,7 +2057,7 @@ the task's assigned amount of time triggers a jeopardy alert.
 
 **Jeopardy Management components**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-32-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-32-1.png)
 
 
 **Jeopardy Management alert levels**
@@ -2078,7 +2078,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Jeopardy Management scenarios**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-33-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-33-0.png)
 
 
 The Jeopardy Management scenarios image compares some scenarios for tasks at certain
@@ -2328,7 +2328,7 @@ Process Management to monitor the end-to-end sales process from a single interfa
 
 **Lead-to-Cash Process Management workflow**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-36-5.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-36-5.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 37
@@ -2658,7 +2658,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 To learn more about the Partner portal, see Using Partner Relationship Management.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-41-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-41-0.png)
 
 
 Related topics
@@ -2828,7 +2828,7 @@ sequence.
 
 **Product catalog and pricing configuration workflow**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-44-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-44-0.png)
 
 
 **Note:** Review your entitlements to see the product offering options available to you.
@@ -3389,7 +3389,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Example of complex characteristics in product configurator**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-55-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-55-0.png)
 
 
 **Setting up complex characteristics**
@@ -4310,7 +4310,7 @@ Assign child product offerings in a bundle to the product offering relationship 
 presents the options in logical groups on the product configurator to the agent. The following
 example shows how product offering groups appear in the product configurator.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-68-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-68-0.png)
 
 
 **Procedure**
@@ -4502,7 +4502,7 @@ offering.
 
 **Example configurable product offering for an order**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-70-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-70-1.png)
 
 
 **How multiple configurations are created**
@@ -4529,7 +4529,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Offering summary page with More options menu**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-71-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-71-0.png)
 
 
 The following options are available to manage child offering configurations:
@@ -4651,7 +4651,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **SD-WAN product model**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-73-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-73-0.png)
 
 
 Each product offering has the following components:
@@ -4746,7 +4746,7 @@ and resource specifications.
 
 **Managed firewall service structure**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-74-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-74-0.png)
 
 
 Related topics
@@ -4960,7 +4960,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 product specification you want to update.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-77-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-77-0.png)
 
 
 **2.** Select the **Create New Version** button to create a version of the specification.
@@ -4993,7 +4993,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-78-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-78-0.png)
 
 **6.** Navigate to **All**     - **Inbound queue**     - **Inbound requests** and select the record id you’re
 
@@ -5126,7 +5126,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Product catalog hierarchy views**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-80-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-80-0.png)
 
 
 To view the product catalog hierarchy in the CSM Configurable Workspace, in the List view
@@ -5667,7 +5667,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-87-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-87-0.png)
 
 **8.** Select the attachment to download the exported file.
 
@@ -5963,7 +5963,7 @@ get product offer recommendations.
 
 **Elements of needs analysis**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-90-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-90-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 91
@@ -6340,7 +6340,7 @@ add relevant items quickly to their quotes.
 
 **Example product offering recommendations for a quote**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-96-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-96-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 97
@@ -6446,7 +6446,7 @@ external sources.
 
 **Product catalog and pricing configuration workflow**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-98-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-98-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 99
@@ -6643,7 +6643,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Default Pricing Plan steps**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-102-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-102-0.png)
 
 
 The default plan consists of basic pricing steps in which certain actions are run to calculate
@@ -6720,7 +6720,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Pricing plan calculations for a product**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-104-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-104-0.png)
 
 
 **Customizing a pricing plan**
@@ -8031,7 +8031,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Example quantity range for volume pricing**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-123-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-123-0.png)
 
 
 For example, the door sensor pricing adjustment applies only to quantities ranging from 1
@@ -8202,7 +8202,7 @@ product offering.
 
 **Rule validations in Product Offering Category Eligibility Matrix**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-125-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-125-0.png)
 
 
 From the Details tab for a matrix, you can also run rule validations for the entire matrix by
@@ -8329,7 +8329,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Example opportunity subscription revenue details**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-127-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-127-0.png)
 
 
 **Subscription pricing metrics**
@@ -9446,7 +9446,7 @@ characteristics, and product characteristic options.
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-142-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-142-0.png)
 
 
 
@@ -9463,7 +9463,7 @@ product, and the value is the quantity to be set.
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-142-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-142-1.png)
 
 
 
@@ -9483,7 +9483,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-143-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-143-0.png)
 
 
 
@@ -9500,7 +9500,7 @@ text.
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-143-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-143-1.png)
 
 
 
@@ -10233,7 +10233,7 @@ Workflow Studio and Playbook Experience.
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-154-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-154-0.png)
 
 
 
@@ -10897,7 +10897,7 @@ dashboard on the CSM workspace.
 
 **2.** Select **New** .
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-162-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-162-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 163
@@ -11011,7 +11011,7 @@ Role required: admin
 
 your requirements.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-164-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-164-0.png)
 
 
 **5.** Select **Update** to save the settings of your scheduler.
@@ -11559,7 +11559,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Result**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-172-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-172-0.png)
 A list of subflows appear in the results section. These sub flows create the enrichment tasks for
 [an order line item during the enrichment process. For more information, see Decision Builder](https://docs.servicenow.com/csh?topicname=decision-builder-user-interface&version=zurich&pubname=zurich-build-workflows)
 [user interface](https://docs.servicenow.com/csh?topicname=decision-builder-user-interface&version=zurich&pubname=zurich-build-workflows) .
@@ -11851,7 +11851,7 @@ setup table.
 
 **Jeopardy Management configuration activities**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-176-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-176-0.png)
 
 
 **Jeopardy Management setup**
@@ -12348,7 +12348,7 @@ entries in the customer order table as shown in the following diagram.
 
 **Asynchronous order processing workflow**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-182-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-182-0.png)
 
 
 The asynchronous order processing follows these steps:
@@ -12380,7 +12380,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Inbound Queue state model**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-183-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-183-0.png)
 
 
 **4.** When all the orders are captured in the Inbound Queue [sn_tmt_core_inbound_queue]
@@ -12424,7 +12424,7 @@ to create another opportunity, quote, or order for each location.
 **Location filter in the product catalog UI and service location in the line item view**
 **for quotes**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-184-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-184-0.png)
 
 
 **How location-based transactions work**
@@ -12452,7 +12452,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Rule entity filters and product eligibility rule matrices**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-185-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-185-0.png)
 
 
 In the following example of the Product Offering Catalog Eligibility matrix, a rule
@@ -12462,7 +12462,7 @@ used to filter the product catalog displayed.
 
 **Example product offering catalog eligibility matrix**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-185-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-185-1.png)
 
 
 Agent experience for location-based transactions
@@ -12489,7 +12489,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Example order line item copy**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-186-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-186-0.png)
 
 
 For details on how agents add products to an opportunity, quote, or order by
@@ -12919,12 +12919,12 @@ also select when you want to initiate the renewal of the service contract.
 
 **Inputs in Customer Life Cycle Workflows Policy decision table**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-192-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-192-0.png)
 
 
 **Conditions in Customer Life Cycle Workflows Policy decision table**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-192-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-192-1.png)
 
 
 You can configure rules based on the six available input parameters to a required target
@@ -15514,7 +15514,7 @@ added and don't require further customization.
 
 **Product catalog interface**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-226-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-226-0.png)
 
 
 The catalog view has the following features for selecting products:
@@ -15569,7 +15569,7 @@ ServiceNow CPQ.
 
 **Configurator in CSM Configurable Workspace and Business Portal**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-227-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-227-1.png)
 
 
 When adding products to Sales and Order Management transactions, agents and customers
@@ -15587,7 +15587,7 @@ can be selected for the product.
 
 **CPQ Configurator interface**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-228-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-228-0.png)
 
 
 The interface has the following features:
@@ -15654,7 +15654,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Product configurator interface**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-230-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-230-0.png)
 
 
 **Selecting product characteristics and options**
@@ -15674,7 +15674,7 @@ characteristics.
 
 **Complex characteristics in the product configurator**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-230-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-230-2.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 231
@@ -15768,7 +15768,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Example bundle configuration for an order**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-232-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-232-0.png)
 
 
 **6.** Navigate to the child offering in the product hierarchy, which displays the offering
@@ -17410,7 +17410,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-256-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-256-0.png)
 
 **Procedure**
 
@@ -17801,7 +17801,7 @@ to the **Catalog** tab.
 After you select a location, only the opportunity line items that are eligible for the selected
 location are displayed.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-261-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-261-0.png)
 
 
 **4.** Select **Add** to create an opportunity line item.
@@ -17918,7 +17918,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-263-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-263-0.png)
 
 Select the options from these three filters to view the data for your group or manager for a
 selected time-period.
@@ -17958,7 +17958,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-264-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-264-0.png)
 
 As a sales representative, you can view the status of each opportunity that you own. As the
 sale progresses, you can update the Forecast Category field of the opportunity, and the new
@@ -18115,7 +18115,7 @@ contacts. You can also indicate whether the quote is active and set the quote st
 
 **3.** In the Details tab, fill in the basic information.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-266-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-266-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 267
@@ -18221,7 +18221,7 @@ cross-sell a product.
 
 **Product offering recommendations for a quote**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-268-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-268-1.png)
 
 
 Product recommendation cards display the following information:
@@ -18432,7 +18432,7 @@ quote is active, the **Active** field is selected.
 
 tab.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-271-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-271-0.png)
 
 
 **5.** Select the **More Actions** icon and select **Create new version** .
@@ -18709,7 +18709,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-275-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-275-0.png)
 
 **3.** Select **New** to start a new quote line item or select an existing quote line item to make
 
@@ -19208,7 +19208,7 @@ Role required: sales_agent
 
 **5.** In the **Select a location** field, choose a location.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-281-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-281-0.png)
 
 
 The products in the catalog are filtered according to the selected location.
@@ -19368,7 +19368,7 @@ A message appears indicating that the PDF document was generated.
 
 window.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-284-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-284-0.png)
 
 
 **View a quote PDF document**
@@ -19399,7 +19399,7 @@ Role required: sales_agent
 
 it.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-284-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-284-1.png)
 
 The PDF document opens in the PDF viewer.
 
@@ -19560,16 +19560,16 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Creating and managing orders**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-287-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-287-1.png)
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-287-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-287-3.png)
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-287-5.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-287-5.png)
 
 
 **1.** Creating orders
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-287-7.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-287-7.png)
 
 
 The order life cycle begins when a customer's request is submitted. This could be from a
@@ -19904,7 +19904,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Order states**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-292-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-292-0.png)
 
 
 **1.** A new order gets created in the Draft state.
@@ -20108,7 +20108,7 @@ details required for fulfilling the order in the order enrichment stage.
 
 **Order creation process**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-295-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-295-0.png)
 
 
 **1.** Initiate the order process from the CSM/FSM Configurable Workspace.
@@ -20249,7 +20249,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-297-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-297-0.png)
 
 The products in the catalog are filtered according to the selected location.
 
@@ -20361,7 +20361,7 @@ lets you select product options.
 
 **Product Catalog used to add products to orders**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-298-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-298-1.png)
 
 
 Products with options have a **Customize** button that opens the product configurator, which
@@ -20375,7 +20375,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Product configurator for selecting product options**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-299-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-299-0.png)
 
 
 When the product configurator opens you can select from the available options for the
@@ -20588,7 +20588,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-302-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-302-0.png)
 
 **6.** Select the tab that you want and fill in the fields.
 
@@ -20738,7 +20738,7 @@ are listed on the Pricing section of the Order Line Item Details
 
 page.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-304-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-304-0.png)
 
 
 The Price Adjustments tab on the order line item provides the following information.
@@ -20790,7 +20790,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-305-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-305-0.png)
 
 **Price adjustment example**
 
@@ -21858,7 +21858,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Managed Firewall Service structure**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-319-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-319-0.png)
 
 
 After receiving a service order for adding a Managed Firewall service, a service manager
@@ -21882,7 +21882,7 @@ The decomposition and fulfillment process is shown in the following diagram:
 
 **Service order decomposition and fulfillment**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-319-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-319-1.png)
 
 
 Next, the ServiceNow AI Platform triggers a fulfillment workflow for the decomposed service
@@ -22002,7 +22002,7 @@ product characteristic was designated as optional.
 
 **SD-WAN Controller Tenancy product characteristic**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-321-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-321-0.png)
 
 
 In the example, you see that a decomposition rule was defined for the SD-WAN Controller
@@ -22012,7 +22012,7 @@ specification when a customer does not select the **Tenancy** option.
 
 **SD-WAN Controller Service decomposition rule**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-321-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-321-1.png)
 
 
 When a customer places an order and doesn't select the **Tenancy** option, the related service
@@ -22109,7 +22109,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **SD-WAN Bronze Plan product offering**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-323-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-323-0.png)
 
 
 The SD-WAN Bronze Plan product offering uses a product specification, called an SD-WAN
@@ -22127,7 +22127,7 @@ Service Package (as shown in the following example), that has three target speci
 
 **SD-WAN Service Package product specifications**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-323-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-323-1.png)
 
 
 The SD-WAN Edge Device product specification has specification relationships with SD WAN
@@ -22142,7 +22142,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **SD-WAN Bronze Plan specification relationships**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-324-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-324-0.png)
 
 
 The following example shows the decomposition rules for the product offering for the SDWAN Bronze Plan.
@@ -22150,7 +22150,7 @@ The following example shows the decomposition rules for the product offering for
 
 **SD-WAN Bronze Plan decomposition rules**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-324-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-324-1.png)
 
 
 When your customer places an order for the SD-WAN Bronze Plan product offering and
@@ -22202,7 +22202,7 @@ the remaining domain orders.
 
 **Staggered decomposition processing**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-325-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-325-0.png)
 
 
 **Contrast to earlier decomposition processing**
@@ -22525,7 +22525,7 @@ The following image shows the order orchestration UI:
 
 **Order orchestration UI**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-329-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-329-0.png)
 
 
 By using the order orchestration UI, you can perform the following actions:
@@ -22737,7 +22737,7 @@ following diagram.
 
 **Inflight order change high-level approach**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-332-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-332-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 333
@@ -22848,7 +22848,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **SD-WAN Service Package inflight change orders**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-334-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-334-0.png)
 
 
 For the top-level SD-WAN Service package, the PONR only occurs before the testing and turn
@@ -24100,7 +24100,7 @@ diagram shows the order fallout management flow.
 
 **Order Fallout Management flow**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-350-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-350-0.png)
 
 
 Fallout Management enables you to identify the orders in a failed state. Fallout tasks can be
@@ -24509,7 +24509,7 @@ The following table describes where you can view the jeopardy status.
 |SLA Definition Progress Bar|Navigate to**Customer Order**> **Order**> **Order Line Item**> <br>**Task**> **SLA**and view the status bar. The status bar shows the<br>SLA progress, for example:<br>**•** Green: SLA progressing on its time line.<br>**•** Red: Task is near the end of the<br>critical percentage of allotted<br>time.|
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-354-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-354-0.png)
 
 **Managing post-fulfillment order changes**
 
@@ -25213,7 +25213,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Automatic renewal for service contracts on quotes**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-365-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-365-0.png)
 
 
 In the Renewal adjustment basis field, you can select **List price** or **Contracted price** . Selecting
@@ -25223,7 +25223,7 @@ date.
 
 **Renewal adjustment basis**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-365-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-365-1.png)
 
 
 Selecting Contracted price gives you the option to renew the contract at Markdown % or
@@ -25239,7 +25239,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Renewal adjustment type**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-366-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-366-0.png)
 
 
 That exact renewal date and the renewal adjustments for that service contract will be visible
@@ -25248,7 +25248,7 @@ on the service contract form in the **Auto renewal date** field.
 
 **Automatic renewal of service contracts**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-366-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-366-1.png)
 
 
 You cannot modify the renewal adjustment fields on the service contract. You can only
@@ -25271,7 +25271,7 @@ alerting you. You can select the option **update contract end dates to match off
 
 **Matching the contract and product offering end dates**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-367-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-367-0.png)
 
 
 If you do not select this option and approve the quote, the contract end date remains the
@@ -25290,7 +25290,7 @@ date.
 
 **Co-terminate quote lines**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-367-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-367-1.png)
 
 
 **Suspend a service contract**
@@ -26936,7 +26936,7 @@ consolidated view of sales activities across entities such as opportunities, quo
 
 **Sales process dashboard in Lead-to-Cash Process Management**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-386-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-386-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 387
@@ -27515,7 +27515,7 @@ Customers can also build orders and submit them for fulfillment.
 
 **The Business Portal product catalog**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-393-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-393-0.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 394
@@ -27532,7 +27532,7 @@ also submit orders to start the fulfillment process.
 
 **Business Portal shopping cart**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-394-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-394-0.png)
 
 
 **Creating and viewing order cases**
@@ -27588,7 +27588,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Procedure**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-395-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-395-1.png)
 
 
 **1.** Log in to the Business Portal.
@@ -28054,7 +28054,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Partner Portal**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-401-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-401-0.png)
 
 
 From the Partner Portal, you can use and access the following features.
@@ -28206,7 +28206,7 @@ sales and order processes.
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-403-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-403-0.png)
 
 © 2025 ServiceNow, Inc. All rights reserved. 404
 ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks and/or registered trademarks of ServiceNow, Inc., in the United States and/or other countries.
@@ -28319,7 +28319,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-405-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-405-0.png)
 
 
 
@@ -29239,7 +29239,7 @@ components with different characteristic options that can be selected, including
 
 **Example bundled product in service catalog**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-422-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-422-0.png)
 
 
 **Cancelling an order**
@@ -29265,7 +29265,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **Manage inventory example in service catalog**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-423-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-423-0.png)
 
 #### **Order Management integration with Field Service Management**
 
@@ -29909,7 +29909,7 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 **SD-WAN fulfillment flow**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-433-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-433-0.png)
 
 
 **Setting up project oversight conditions and decision rules**
@@ -29941,7 +29941,7 @@ including the project template, to be applied.
 
 **Project Management Oversight for Order Line Item**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-434-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-434-0.png)
 
 
 [For more information on adding or changing conditions in decision tables, see Decision](https://docs.servicenow.com/csh?topicname=decision-builder-user-interface&version=zurich&pubname=zurich-build-workflows)
@@ -30251,7 +30251,7 @@ Bundle.
 **Duplicate project template tasks in Project Management Oversight for Domain**
 **Order**
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-439-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-439-0.png)
 
 
 You can determine the appropriate project template task by finding and verifying the sys_id
@@ -30284,7 +30284,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-440-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-440-0.png)
 
 For example, in the Project Template Task record for Product Order for SD-WAN
 Security, which belongs to the SD-WAN Package project template, the sys_id is
@@ -30304,7 +30304,7 @@ decision table entry, for example Project Management Oversight for Domain Order.
 
 **c.** In the record for the project template task, select the **Answer** column.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-440-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-440-1.png)
 
 
 The resulting record for the **Answer** field opens.
@@ -30322,7 +30322,7 @@ ServiceNow, the ServiceNow logo, Now, and other ServiceNow marks are trademarks 
 Other company names, product names, and logos may be trademarks of the respective companies with which they are associated.
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-441-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-441-0.png)
 
 The sys_id value should match the sys_id of the project template task determined in Step 1.
 If the sys_id doesn't match, proceed to the next step.
@@ -30333,7 +30333,7 @@ If the sys_id doesn't match, proceed to the next step.
 the XML view of another project template task to verify the sys_id of the project task
 template.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-441-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-441-1.png)
 
 
 **Configure field mappings**
@@ -30588,9 +30588,9 @@ Other company names, product names, and logos may be trademarks of the respectiv
 
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-445-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-445-0.png)
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-445-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-445-1.png)
 
 
 |Task|Details|
@@ -30625,13 +30625,13 @@ Other company names, product names, and logos may be trademarks of the respectiv
 |View**Details**tab in order task<br>relationship to see task number,<br>project number, and order line item<br>number relationship||
 
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-446-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-446-0.png)
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-446-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-446-1.png)
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-446-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-446-2.png)
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-446-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-446-3.png)
 
 #### **Order Management diagnostics capability**
 
@@ -30702,7 +30702,7 @@ toward delivery based on the customer's feedback.
 
 **4.** Open an order task that is in the New or Open state.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-447-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-447-0.png)
 
 
 **5.** Review and verify the order task.
@@ -30874,7 +30874,7 @@ This task is applicable for product order, services, and resources.
 
 **4.** In the **Product Orders** tab, open the product order record.
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-449-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-449-0.png)
 
 
 **5.** Review and verify the domain order.
@@ -31661,7 +31661,7 @@ These properties are available for Lead-to-Cash Process Management.
 
 **•** Default value: 3
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-464-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-464-1.png)
 
 
 © 2025 ServiceNow, Inc. All rights reserved. 465
@@ -31687,7 +31687,7 @@ discussion*,*EmailAutogenerated*,*Sidebar po
 
 **•** Location: System Property [sys_properties] tab
 
-![](C:/Users/sroya/Documents/GitHub/sn_docs/SOM/images/zurich-som.pdf-465-0.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/SOM/images/zurich-som.pdf-465-0.png)
 
 
 **Components installed with Business Object Core**
