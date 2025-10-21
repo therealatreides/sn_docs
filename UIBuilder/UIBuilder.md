@@ -50,7 +50,7 @@ managers at the same URL.
 Builder.
 
 
-![](images/UIBuilder.pdf-3-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-3-1.png)
 
 
 Use the UI Builder library of components to build your pages. Configure
@@ -58,16 +58,16 @@ them any way that you need and then connect your organization's data
 to the components.
 
 
-![](images/UIBuilder.pdf-4-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-4-1.png)
 
 **Get started with UI Builder**
 
-![](images/UIBuilder.pdf-4-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-4-2.png)
 
 
-![](images/UIBuilder.pdf-5-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-5-2.png)
 
-![](images/UIBuilder.pdf-5-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-5-3.png)
 
 
 **Note:** UI Builder isn't yet capable of building or configuring
@@ -241,7 +241,7 @@ components, see Customize UI Builder pages using components.
 1. Navigate to **All > Now Experience Framework > UI Builder** .
 Start UI Builder
 
-![](images/UIBuilder.pdf-8-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-8-1.png)
 
 
 2. Select an experience that you want to work in from the UI Builder
@@ -262,13 +262,13 @@ a. Select the **+** icon in the **Pages and variants** section.
 
 b. Select **Create a new page** .
 
-![](images/UIBuilder.pdf-9-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-9-1.png)
 
 
 c. Select **→ Create from scratch instead** .
 
 
-![](images/UIBuilder.pdf-10-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-10-1.png)
 
 
 You can also create pages using page templates, see Create a
@@ -291,7 +291,7 @@ a few special characters ( `"-"`, `"."`, `"_"`, `"~"` ), with the words
 separated by a forward slash or hyphen. The **URL preview** shows
 the path of your page.
 
-![](images/UIBuilder.pdf-11-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-11-1.png)
 
 
 **Note:** The application scope defaults to the scope that
@@ -338,7 +338,7 @@ Components can be as simple as a **Heading**, or as complex as a **List** .
 
 4. Select **Editor** to start adding customizing your page.
 
-![](images/UIBuilder.pdf-12-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-12-1.png)
 
 
 5. Add a container component to your page.
@@ -351,7 +351,7 @@ with as many components in the containers.
 
 a. Select **+ Add content** in the content tree.
 
-![](images/UIBuilder.pdf-13-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-13-1.png)
 
 
 b. Select the **Single column** layout in the toolbox.
@@ -360,13 +360,13 @@ b. Select the **Single column** layout in the toolbox.
 c. Select **Column layout 1** in the content tree to highlight the
 container.
 
-![](images/UIBuilder.pdf-13-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-13-2.png)
 
 
 d. Select the component name in the configuration panel.
 
 
-![](images/UIBuilder.pdf-14-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-14-1.png)
 
 
 e. In the **Component label** field, type `Container for heading` .
@@ -388,7 +388,7 @@ on the page, making it easier to build your page. You can do a
 text search for a component.
 
 
-![](images/UIBuilder.pdf-15-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-15-1.png)
 
 
 For more information on component IDs, see Component ID.
@@ -407,7 +407,7 @@ a. Select **+ Add content** in the content tree below the column
 layout created in step 5.
 
 
-![](images/UIBuilder.pdf-16-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-16-1.png)
 
 
 b. Type `heading` into the search and select the **Heading**
@@ -435,7 +435,7 @@ ID for the heading component.
 h. Click **Apply** .
 
 
-![](images/UIBuilder.pdf-17-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-17-1.png)
 
 
 7. Customize the heading component.
@@ -471,7 +471,7 @@ You’ve added and customized a heading component to your page.
 
 a. Similar to before, select **+ Add content** in the content tree.
 
-![](images/UIBuilder.pdf-18-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-18-1.png)
 
 
 b. Select the **Single column** layout in the toolbox.
@@ -481,7 +481,7 @@ c. Select **Column layout 1** in the content tree to highlight the
 container.
 
 
-![](images/UIBuilder.pdf-19-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-19-1.png)
 
 
 d. Select the component name in the configuration panel.
@@ -496,7 +496,7 @@ f. In the **Component ID** field, type `container_for_content` .
 g. Select **Apply** .
 
 
-![](images/UIBuilder.pdf-20-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-20-1.png)
 
 
 h. Select **Save** .
@@ -527,7 +527,7 @@ c. Select the **Image 1** component in the **Content** tree to highlight
 the image.
 
 
-![](images/UIBuilder.pdf-21-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-21-1.png)
 
 
 d. Select **None** in the configuration panel.
@@ -545,14 +545,14 @@ g. In the **Component ID** field, type `my_image` .
 h. Select **Apply** .
 
 
-![](images/UIBuilder.pdf-22-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-22-1.png)
 
 
 i. Select **Save** .
 You added an image component to your page.
 
 
-![](images/UIBuilder.pdf-23-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-23-1.png)
 
 
 10. Select **Preview** in the UI Builder header to preview your page.
@@ -561,7 +561,7 @@ generates a preview of how it looks in your Workspace or portal
 experience.
 
 
-![](images/UIBuilder.pdf-24-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-24-1.png)
 
 
 **Result**
@@ -659,7 +659,7 @@ Dynamically expose data in UI Builder pages (advanced feature).
 You can also type `UI Builder` directly in the **Filter navigator** .
 Start UI Builder
 
-![](images/UIBuilder.pdf-26-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-26-1.png)
 
 
 2. From the UI Builder home page, choose an experience you want to
@@ -682,7 +682,7 @@ with your applications in UI Builder.
 ||c. Select**Create from scratch instead**.<br>d. Enter the name of your new page.<br>The name can be anything you want.<br>In this example, you can type`My`<br>`tutorial page`.<br>e. In the**Path** field, a path is<br>automatically entered based on your<br>page name. In this example, the Path<br>is`my-tutorial-page`. The path is the<br>URL of the page. You can change this<br>path to anything you want, but the<br>path must be unique. The path has to<br>be lowercase and contain no spaces.<br>The**URL preview** shows what the path<br>of your page will be.|
 
 
-![](images/UIBuilder.pdf-27-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-27-1.png)
 
 
 |To do this task|Do the following|
@@ -690,7 +690,7 @@ with your applications in UI Builder.
 ||f. Select**Continue**.<br>g. (Optional) Add parameters to your<br>page URL.<br>h. Select**Looks good**.<br>i. Enter the name of your page variant.<br>The name can be anything you want.<br>In this example, you can type`My frst`<br>`page variant`.<br>j. Add an audience for the page variant<br>by selecting**+ Add an audience**. In this<br>example, select**Admin**.<br>k. Select**Continue**.<br>l. On the next screen, select**Build**<br>**responsive**.<br>m. Select**Create**.<br>n. After your page is created, the<br>page editor screen appears. You|
 
 
-![](images/UIBuilder.pdf-28-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-28-1.png)
 
 
 |To do this task|Do the following|
@@ -698,7 +698,7 @@ with your applications in UI Builder.
 ||can change advanced settings such<br>as the**URL settings** and**Variant**<br>settings. For this tutorial, you can skip<br>these advanced options. For more<br>information on changing advanced<br>settings, seeCreate a UI Builder page:<br>Advanced settings.<br>UI Builder Page Editor<br>|
 
 
-![](images/UIBuilder.pdf-29-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-29-1.png)
 
 
 Congratulations! You created your tutorial page! The page is empty
@@ -720,7 +720,7 @@ Builder pages.
 |Change the layout<br>of the page to two<br>columns|a. Select the**Body** level of the**Content**<br>tree to highlight the page.<br>b. Select**+ Add content** in the content<br>tree.<br>c. Select the**Two columns** layout.|
 
 
-![](images/UIBuilder.pdf-30-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-30-1.png)
 
 
 |To do this task|Do the following|
@@ -728,7 +728,7 @@ Builder pages.
 ||d. Select**Add**.<br>e. The two column layout appears.|
 
 
-![](images/UIBuilder.pdf-31-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-31-1.png)
 
 
 |To do this task|Do the following|
@@ -736,7 +736,7 @@ Builder pages.
 |||
 
 
-![](images/UIBuilder.pdf-32-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-32-1.png)
 
 
 5. Add a **Heading** component, and a **Button** component to the left
@@ -753,7 +753,7 @@ column.
 ||c. Select the**Heading** component to<br>add it to your container. A heading<br>component is a way to add text or a<br>title to your page.<br>d. Select**Add**.<br>e. Select the component name in<br>the configuration panel to see the<br>**Component label** and**Component ID**.<br>You can change these to anything<br>you want, as long as they’re unique.|
 
 
-![](images/UIBuilder.pdf-33-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-33-1.png)
 
 
 |To do this task|Do the following|
@@ -767,7 +767,7 @@ column.
 |Add and configure<br>a button component<br>to your left-column<br>container|Add a**Button** component to your page.<br>Configure the button by changing the<br>text and the way that it looks. Then<br>change what happens when you click<br>the button by adding an event handler<br>for the button. The event handler adds<br>an action to the button to link to the<br>ServiceNow® home page. So when you<br>click the button, the ServiceNow® home<br>page opens in a new tab of your browser.|
 
 
-![](images/UIBuilder.pdf-35-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-35-1.png)
 
 
 |To do this task|Do the following|
@@ -775,7 +775,7 @@ column.
 ||For more information about configuring<br>components, seeComponents.<br>a. Select the**+** on the bottom edge<br>of the heading component that we<br>added in the previous section.<br>b. Type`Button` in the search field.<br>c. Select the**Button** component in the list.<br>For more information on adding<br>components to your page, seeTable<br>1.<br>d. Select the component name in<br>the configuration panel to see the<br>**Component label** and**Component ID**.<br>You can change these to anything<br>you want, as long as they’re unique.<br>e. Configure the button component as<br>follows.<br>**•** Enter`Home Page` in the Label<br>field to change the name of your<br>button.<br>**•** Change the Size to**Large**.<br>**•** Enter`home` in the**Icon** search field.<br>**•** Select**Home Outline**.|
 
 
-![](images/UIBuilder.pdf-36-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-36-1.png)
 
 
 |To do this task|Do the following|
@@ -783,7 +783,7 @@ column.
 ||f. Add an event handler to configure<br>what action applies to the button.<br>**•** Select the**Events** tab in the<br>configuration panel.<br>**•** Under Button clicked, select**+ Add**<br>**a new event handler**.|
 
 
-![](images/UIBuilder.pdf-37-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-37-1.png)
 
 
 |To do this task|Do the following|
@@ -791,9 +791,9 @@ column.
 ||**•** Under Inherited event handlers,<br>select**Link to destination**.<br>**•** Click**Select destination**.<br>**•** In the**Select destination** screen,<br>select**External URL**.<br>**•** Type your URL. For this tutorial, type<br>`https://www.servicenow.com`<br>Select**OK**.<br>**•** Select**Add**.|
 
 
-![](images/UIBuilder.pdf-38-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-38-1.png)
 
-![](images/UIBuilder.pdf-38-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-38-2.png)
 
 
 |To do this task|Do the following|
@@ -805,7 +805,7 @@ You added and configured the **Heading** and **Button** component for
 
 your page.
 
-![](images/UIBuilder.pdf-39-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-39-1.png)
 
 
 6. Add a **Data visualization** component to the container.
@@ -826,7 +826,7 @@ parameters. Then, add a data resource to it.
 ||e. Select**Data visualization type** drop-<br>down and select**Dial**. You can choose<br>a variety of visualization types to best<br>suit your data.<br>f. Select**Header and border** in the<br>configuration panel.<br>g. Enter`My Tasks` in the**Chart title** field.|
 
 
-![](images/UIBuilder.pdf-41-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-41-1.png)
 
 
 |To do this task|Do the following|
@@ -834,7 +834,7 @@ parameters. Then, add a data resource to it.
 |||
 
 
-![](images/UIBuilder.pdf-42-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-42-1.png)
 
 
 You’ve added a **Data visualization** component to the right column
@@ -856,7 +856,7 @@ customer account data.
 |Preview your page<br>|a. Select**Preview** in the UI Builder header.<br>b. See the heading in the left column of<br>your page.<br>c. Select the**Home Page** button. The<br>ServiceNow® home page opens in<br>another browser tab. Close the<br>browser tab to go back to your<br>preview page.<br>d. See the customer account data<br>visualization in the right column of your<br>page.<br>Preview your tutorial page<br>|
 
 
-![](images/UIBuilder.pdf-43-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-43-1.png)
 
 
 Congratulations! You completed the UI Builder tutorial.
@@ -942,7 +942,7 @@ should see the experience listed here.
 
 UI Builder home
 
-![](images/UIBuilder.pdf-45-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-45-1.png)
 
 
 ## Experience settings for UI Builder
@@ -998,7 +998,7 @@ search results come from.
 
 Workspace edit experience settings screen
 
-![](images/UIBuilder.pdf-47-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-47-1.png)
 
 
 To learn more about the workspace experience settings, see Configure UI
@@ -1032,7 +1032,7 @@ global search for either your public or private pages.
 
 Edit experience settings screen
 
-![](images/UIBuilder.pdf-48-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-48-1.png)
 
 
 To learn more about the portal experience settings, see Configure UI
@@ -1058,7 +1058,7 @@ information are:
 [Component Design Documentation](https://horizon.servicenow.com/workspace/components)
 
 
-![](images/UIBuilder.pdf-50-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-50-1.png)
 
 
 **ServiceNow Community**
@@ -1072,13 +1072,13 @@ information are:
 
 **Development information**
 
-![](images/UIBuilder.pdf-51-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-51-1.png)
 
 
 [ServiceNow Developer site](https://developer.servicenow.com/)
 
 
-![](images/UIBuilder.pdf-52-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-52-1.png)
 
 
 **ServiceNow University**
@@ -1374,41 +1374,41 @@ help for getting started using UI Builder. You can also use the search bar
 to quickly find your experiences by name.
 
 
-![](images/UIBuilder.pdf-60-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-60-1.png)
 
 
 You can access the list of experiences in the top by selecting the
 **Experiences** tab in the top bar.
 
-![](images/UIBuilder.pdf-61-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-61-1.png)
 
 
 You can access the list of page collections in the top by selecting the
 **Page collections** tab in the top bar.
 
 
-![](images/UIBuilder.pdf-62-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-62-1.png)
 
 
 You can access the list of controllers in the top by selecting the
 **Controllers** tab in the top bar.
 
 
-![](images/UIBuilder.pdf-63-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-63-1.png)
 
 
 You can access the list of presets in the top by selecting the **Presets** tab in
 the top bar.
 
 
-![](images/UIBuilder.pdf-64-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-64-1.png)
 
 
 Select the **What's new** link in the header to view the latest changes to UI
 Builder.
 
 
-![](images/UIBuilder.pdf-65-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-65-1.png)
 
 
 **UI Builder experience view**
@@ -1421,7 +1421,7 @@ to select a page to edit.
 
 UI Builder experience view
 
-![](images/UIBuilder.pdf-66-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-66-1.png)
 
 
 **Structure of UI Builder**
@@ -1433,7 +1433,7 @@ UI Builder is separated into the following areas.
 **•** Use the left vertical bar for access to the following in UI Builder:
 
 
-![](images/UIBuilder.pdf-67-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-67-1.png)
 
 
 **•** Use the top bar to access pages in the experience and view Help.
@@ -1447,30 +1447,30 @@ icon next to the save button. And finally, click the **Save** button often to
 
 save your page.
 
-![](images/UIBuilder.pdf-68-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-68-1.png)
 
 
 **•** Use the content tree to view and edit column layouts, columns, and
 components on your pages.
 
 
-![](images/UIBuilder.pdf-69-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-69-1.png)
 
 
 **•** Add column layouts and components to your page using the UI Builder
 toolbox.
 
 
-![](images/UIBuilder.pdf-70-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-70-1.png)
 
 
-![](images/UIBuilder.pdf-71-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-71-1.png)
 
 
 **•** Work in the UI Builder staging area to build and modify your pages.
 
 
-![](images/UIBuilder.pdf-72-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-72-1.png)
 
 
 **•** Go to configuration panel to modify column layouts, columns,
@@ -1480,7 +1480,7 @@ components, styling, and events.
 **•**
 
 
-![](images/UIBuilder.pdf-73-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-73-1.png)
 
 
 Data resources: Bind data to your components using data resources to
@@ -1492,7 +1492,7 @@ See Connect data to your components for more information.
 **•**
 
 
-![](images/UIBuilder.pdf-74-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-74-1.png)
 
 
 Client state: Set the parameters for the client state for your page. The
@@ -1503,14 +1503,14 @@ You can see the preview of the client state parameters.
 **•**
 
 
-![](images/UIBuilder.pdf-75-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-75-1.png)
 
 
 Client scripts: Scripting automates aspects of the page, like event
 handling.
 
 
-![](images/UIBuilder.pdf-76-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-76-1.png)
 
 
 **•** UI Builder Learning Center
@@ -1549,19 +1549,19 @@ guidelines in UI Builder.
 
 Navigate to **All > Now Experience Framework > UI Builder > Help** .
 
-![](images/UIBuilder.pdf-77-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-77-1.png)
 
 
 The Learning Center opens in an overlay.
 
-![](images/UIBuilder.pdf-77-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-77-2.png)
 
 
 Available information is listed on tiles. Each tile contains a title, the
 information type, and the time to complete. For example, a tile linking
 to a product documentation article that takes three minutes to read.
 
-![](images/UIBuilder.pdf-78-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-78-1.png)
 
 
 Select a tile to open a resource. Resources are in the following locations:
@@ -1613,7 +1613,7 @@ homepage or the UI Builder Help panel.
 When a guided tour starts automatically, an introduction is displayed.
 Select **Begin Tour** .
 
-![](images/UIBuilder.pdf-79-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-79-1.png)
 
 
 To begin a tour manually from the homepage, navigate to **All > Now**
@@ -1623,20 +1623,20 @@ To begin a tour manually from the homepage, navigate to **All > Now**
 **you unstuck** pop-up.
 
 
-![](images/UIBuilder.pdf-80-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-80-1.png)
 
 
 Alternatively, select **Help** and then select a tour on the **Find relevant**
 **resources to get you unstuck** pop-up.
 
-![](images/UIBuilder.pdf-80-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-80-2.png)
 
 
 After a tour starts automatically or manually, you're led through a series
 of steps. Read the text for each step and perform the required actions or
 select **Next** to continue the tour.
 
-![](images/UIBuilder.pdf-81-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-81-1.png)
 
 
 To stop a tour at any time, select the **X** .
@@ -1645,7 +1645,7 @@ To stop a tour at any time, select the **X** .
 Select **Yes** or **No** to stop the tour from auto-launching again. You can
 also apply your decision to all tours that start on the same page.
 
-![](images/UIBuilder.pdf-81-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-81-2.png)
 
 
 ## **Dark theme in UI Builder**
@@ -1663,13 +1663,13 @@ selecting the Choose theme icon ( ) in the banner.
 
 UI Builder theme options
 
-![](images/UIBuilder.pdf-82-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-82-1.png)
 
 
 The Dark theme is instantly applied to the UI Builder interface.
 
 
-![](images/UIBuilder.pdf-83-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-83-1.png)
 
 
 **Note:** The UI Builder stage uses the theme set in your Platform theme
@@ -1777,7 +1777,7 @@ ServiceNow base system service portals, such as the Employee
 
 UI Builder Home page
 
-![](images/UIBuilder.pdf-86-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-86-1.png)
 
 
 2. From the UI Builder Home page, select **Create** .
@@ -1786,7 +1786,7 @@ UI Builder Home page
 3. Select **Experience**
 Create an experience dialog box
 
-![](images/UIBuilder.pdf-87-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-87-1.png)
 
 
 4. Enter a **Name** ; for example, **Demo Experience** .
@@ -1803,7 +1803,7 @@ Create an experience dialog box
 
 Main page for your new experience
 
-![](images/UIBuilder.pdf-88-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-88-1.png)
 
 
 **Note:** In addition to the name of your new experience, the
@@ -1866,7 +1866,7 @@ previous procedure, navigate to **All > Now Experience Framework**
 
 Main page for your new experience
 
-![](images/UIBuilder.pdf-90-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-90-1.png)
 
 
 2. From the main page for your experience, either select **Create new**
@@ -1883,7 +1883,7 @@ from scratch.
 
 Page details
 
-![](images/UIBuilder.pdf-91-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-91-1.png)
 
 
 4. In the **Name** field, type **My test page**, and select **Continue** .
@@ -1912,7 +1912,7 @@ The visual editor opens. Here, you can begin editing your new page.
 
 UI Builder visual editor
 
-![](images/UIBuilder.pdf-92-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-92-1.png)
 
 
 **What to do next**
@@ -1958,7 +1958,7 @@ Role required: ui_builder_admin
 1. Open the main page for your demo experience.
 Demo Experience
 
-![](images/UIBuilder.pdf-93-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-93-1.png)
 
 
 2. From the main page for your experience, select the plus ( **+** ) sign next
@@ -1967,7 +1967,7 @@ to **Pages and variants** .
 
 Create a new page or variant
 
-![](images/UIBuilder.pdf-94-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-94-1.png)
 
 
 3. Select **Create a new page** to create a page that resides at a
@@ -1984,7 +1984,7 @@ the template before selecting it.
 
 Page details
 
-![](images/UIBuilder.pdf-94-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-94-2.png)
 
 
 5. In the **Name** field of the Page details screen, type `Task record`
@@ -2008,7 +2008,7 @@ c. In the **Value** field, enter `task` .
 
 Condition fields
 
-![](images/UIBuilder.pdf-95-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-95-1.png)
 
 
 This page is visible to users accessing a record from the Task table.
@@ -2020,7 +2020,7 @@ The visual editor opens. Here, you can begin editing your new page.
 
 New page created from Standard Record template
 
-![](images/UIBuilder.pdf-96-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-96-1.png)
 
 
 **Note:** The new page includes LOTS of layout, preconfigured
@@ -2037,7 +2037,7 @@ information about test values included in the template.
 
 Edit test values included in the template
 
-![](images/UIBuilder.pdf-97-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-97-1.png)
 
 
 **What to do next**
@@ -2094,7 +2094,7 @@ Role required: ui_builder_admin
 
 UI Builder visual editor
 
-![](images/UIBuilder.pdf-99-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-99-1.png)
 
 
 2. Click the **+ Add content** button on the stage to open the toolbox.
@@ -2111,7 +2111,7 @@ UI Builder visual editor
 
 Add a button
 
-![](images/UIBuilder.pdf-100-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-100-1.png)
 
 
 **Note:** When you have selected the component, the Page
@@ -2141,7 +2141,7 @@ select an **Alert** modal.
 
 Add an Alert modal
 
-![](images/UIBuilder.pdf-101-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-101-1.png)
 
 
 11. Select **Save** .
@@ -2157,7 +2157,7 @@ select **Open or close modal dialog** .
 
 Show/hide modal configuration
 
-![](images/UIBuilder.pdf-102-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-102-1.png)
 
 
 14. Activate the **Open modal dialog** and, select **Alert 1** in the **Modal**
@@ -2176,7 +2176,7 @@ The modal you defined opens.
 
 Open modal with button
 
-![](images/UIBuilder.pdf-103-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-103-1.png)
 
 
 18. Select **Got it** in the modal, and then select the browser back button
@@ -2221,13 +2221,13 @@ accessible only to audiences with the Admin role.
 2. Select the experience you created, and select **Default** .
 Demo Experience
 
-![](images/UIBuilder.pdf-104-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-104-1.png)
 
 
 3. Select the **Open menu** icon.
 Open menu
 
-![](images/UIBuilder.pdf-104-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-104-2.png)
 
 
 4. Select **Duplicate variant** .
@@ -2242,7 +2242,7 @@ Open menu
 
 Select the Admin audience
 
-![](images/UIBuilder.pdf-105-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-105-1.png)
 
 
 7. Select **Create** .
@@ -2308,7 +2308,7 @@ variants go by the order setting.
 2. Select the experience you created, and select **Default** .
 Demo Experience
 
-![](images/UIBuilder.pdf-107-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-107-1.png)
 
 
 3. On the Default variant under the **All users record page**, select the
@@ -2343,7 +2343,7 @@ table.
 
 Condition fields
 
-![](images/UIBuilder.pdf-108-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-108-1.png)
 
 
 6. Select **Create** .
@@ -2351,7 +2351,7 @@ Condition fields
 
 Incident record page
 
-![](images/UIBuilder.pdf-109-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-109-1.png)
 
 
 **Note:** You can view the structure of your pages and variants
@@ -2417,7 +2417,7 @@ b. Select **Form** .
 the **Edit Form** button.
 
 
-![](images/UIBuilder.pdf-111-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-111-1.png)
 
 
 3. Select the **Edit Form** button.
@@ -2427,7 +2427,7 @@ Form Builder opens in a full-screen modal.
 4. (Optional) Move your cursor to individual fields to display additional
 options.
 
-![](images/UIBuilder.pdf-111-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-111-2.png)
 
 
 5. (Optional) Insert fields by moving your cursor to the **+** button, which
@@ -2495,7 +2495,7 @@ Learn more about UI Builder using resources outside of the product.
 |UI Builder is a web user<br>interface builder. Use UI<br>Builder to build pages for<br>CSM Configurable Workspace,<br>App Engine Studio generated<br>workspaces and portals, or custom<br>web experiences using Next<br>Experience Components and<br>custom web components.|ServiceNow Developer<br>site|
 
 
-![](images/UIBuilder.pdf-114-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-114-1.png)
 
 
 ## Learn about audiences
@@ -2555,7 +2555,7 @@ the number the higher the priority. Ensure the **Active** check box is
 selected to make this page active.
 Add audiences modal
 
-![](images/UIBuilder.pdf-115-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-115-1.png)
 
 
 If you do not see an audience that you need, you can click **Open**
@@ -2568,7 +2568,7 @@ Platform®.
 
 Audience list
 
-![](images/UIBuilder.pdf-116-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-116-1.png)
 
 
 **•** Selecting **Open audiences in platform** to edit or create an audience
@@ -2627,7 +2627,7 @@ Choose the correct application scope for your experience. The scope
 picker is to the right of the URL field. The scope defaults to the scope that
 the user is currently in within the ServiceNow AI Platform®.
 
-![](images/UIBuilder.pdf-117-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-117-1.png)
 
 
 If you change to a different scope while in a page, you’re notified that
@@ -2747,7 +2747,7 @@ edits without fear of accidentally creating an override.
 The following diagram shows what is (in green) and is not (in blue)
 domain separated in UI Builder.
 
-![](images/UIBuilder.pdf-120-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-120-1.png)
 
 
 Not shown in the diagram are viewports, declarative actions, and screen
@@ -2883,7 +2883,7 @@ overrides from higher domains. For example, Global <- Top <- Acme <Current domai
 are displayed. The exception is if the default variant or dashboard is in a
 child domain or a peer domain.
 
-![](images/UIBuilder.pdf-123-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-123-1.png)
 
 
 If you select **Expand Domain Scope** while in Global, all variants and
@@ -3004,7 +3004,7 @@ An experience in UI Builder is a collection of web pages for users to
 interact with an application.
 
 
-![](images/UIBuilder.pdf-126-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-126-1.png)
 
 
 Many websites use the same basic structure on every page. For example,
@@ -3057,7 +3057,7 @@ the experience.
 
 UI Builder experience view
 
-![](images/UIBuilder.pdf-128-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-128-1.png)
 
 
 **•** Create an experience for UI Builder
@@ -3117,7 +3117,7 @@ called Demo Experience to demonstrate the process.
 2. Select **Create** from the UI Builder home page.
 
 
-![](images/UIBuilder.pdf-130-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-130-1.png)
 
 3. Select **Experience** .
 
@@ -3127,7 +3127,7 @@ called Demo Experience to demonstrate the process.
 
 Create an experience dialog box
 
-![](images/UIBuilder.pdf-131-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-131-1.png)
 
 
 **Create an experience form**
@@ -3154,7 +3154,7 @@ Create an experience dialog box
 
 Main page for your new experience
 
-![](images/UIBuilder.pdf-133-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-133-1.png)
 
 
 **Note:** In addition to the name of your new experience, the
@@ -3220,7 +3220,7 @@ come from.
 
 Experience settings for workspace
 
-![](images/UIBuilder.pdf-135-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-135-1.png)
 
 
 **•** Change the general settings in your workspace experience
@@ -3299,7 +3299,7 @@ applications in UI Builder.
 
 3. Select **View experience settings** in the upper right.
 
-![](images/UIBuilder.pdf-137-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-137-1.png)
 
 
 4. Change the title, description, and path of your workspace
@@ -3318,7 +3318,7 @@ care when choosing a name for your workspace.
 with the words separated by a forward slash or hyphen.
 UI Builder experience settings
 
-![](images/UIBuilder.pdf-138-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-138-1.png)
 
 
 5. (Optional) Select **Advanced settings** to edit the workspace record on
@@ -3361,7 +3361,7 @@ for more information on creating experiences.
 
 3. Select **View experience settings** in the upper-right.
 
-![](images/UIBuilder.pdf-139-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-139-1.png)
 
 
 4. Scroll to the **Branding and theming** section and note what is listed in
@@ -3443,7 +3443,7 @@ see Learn about security and roles.
 
 3. Select **View experience settings** in the upper-right.
 
-![](images/UIBuilder.pdf-141-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-141-1.png)
 
 
 4. Scroll down to **Side navigation** .
@@ -3452,7 +3452,7 @@ see Learn about security and roles.
 5. Select **+ Add** .
 
 
-![](images/UIBuilder.pdf-142-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-142-1.png)
 
 
 6. Fill in the following fields:
@@ -3511,7 +3511,7 @@ see notifications in your workspace experience.
 
 Workplace experience settings
 
-![](images/UIBuilder.pdf-144-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-144-1.png)
 
 
 You can also control whether the search functionality is visible to the
@@ -3547,12 +3547,12 @@ applications in UI Builder.
 
 4. Select **View experience settings** in the upper-right.
 
-![](images/UIBuilder.pdf-145-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-145-1.png)
 
 
 5. Scroll down to **Notifications** .
 
-![](images/UIBuilder.pdf-145-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-145-2.png)
 
 
 6. Select the **Turn on notifications** option.
@@ -3590,7 +3590,7 @@ you can define what search results are returned by choosing a source for
 the search.
 Workplace experience settings
 
-![](images/UIBuilder.pdf-146-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-146-1.png)
 
 
 Before you can edit the experience settings, you must be in the
@@ -3622,12 +3622,12 @@ applications in UI Builder.
 
 4. Select **View experience settings** in the upper-right.
 
-![](images/UIBuilder.pdf-147-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-147-1.png)
 
 
 5. Scroll down to **Global search** .
 
-![](images/UIBuilder.pdf-147-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-147-2.png)
 
 
 6. Select the **Show global search** option.
@@ -3690,7 +3690,7 @@ functionality on public or private pages in your portal experience.
 
 Experience settings for portals
 
-![](images/UIBuilder.pdf-149-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-149-1.png)
 
 
 **•** Change the general settings in your portal experience
@@ -3759,7 +3759,7 @@ applications in UI Builder.
 3. Select **Settings** in the UI Builder header.
 
 
-![](images/UIBuilder.pdf-151-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-151-1.png)
 
 
 4. Change the title, description, and path of your portal experience.
@@ -3779,7 +3779,7 @@ with the words separated by a forward slash or hyphen.
 
 UI Builder experience settings
 
-![](images/UIBuilder.pdf-152-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-152-1.png)
 
 
 5. (Optional) Select **Advanced settings** to edit the workspace record on
@@ -3827,7 +3827,7 @@ for more information on creating experiences.
 
 3. Select **Settings** in the UI Builder header.
 
-![](images/UIBuilder.pdf-153-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-153-1.png)
 
 
 4. Scroll to the **Branding and theming** section and note what is listed in
@@ -3922,7 +3922,7 @@ applications in UI Builder.
 3. Select **Settings** in the UI Builder header.
 
 
-![](images/UIBuilder.pdf-156-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-156-1.png)
 
 
 4. To change the settings for the header, footer, and navigation menu
@@ -3933,9 +3933,9 @@ advanced settings links.
 Portal experience settings for navigation
 
 
-![](images/UIBuilder.pdf-157-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-157-1.png)
 
-![](images/UIBuilder.pdf-157-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-157-2.png)
 
 
 |Action|Procedure|
@@ -3987,7 +3987,7 @@ applications in UI Builder.
 3. Select **Settings** in the UI Builder header.
 
 
-![](images/UIBuilder.pdf-160-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-160-1.png)
 
 
 4. Scroll down to **Global search** .
@@ -3997,7 +3997,7 @@ applications in UI Builder.
 show or hide the global search in public or private pages.
 Portal search
 
-![](images/UIBuilder.pdf-160-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-160-2.png)
 
 
 6. (Optional) Click **Advanced settings** to go to the ServiceNow AI
@@ -4045,7 +4045,7 @@ your applications in UI Builder.
 You can choose from various app shells when creating an experience.
 
 
-![](images/UIBuilder.pdf-162-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-162-1.png)
 
 
 **App shell descriptions**
@@ -4057,9 +4057,9 @@ You can choose from various app shells when creating an experience.
 |Header app<br>shell|The header app shell<br>includes a header and<br>user menu for a workspace<br>experience. Use the<br>header app shell for<br>experiences that require<br>minimal navigation and<br>few actionable items in the<br>header.||
 
 
-![](images/UIBuilder.pdf-162-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-162-2.png)
 
-![](images/UIBuilder.pdf-162-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-162-3.png)
 
 
 |App shell|Description|Example|
@@ -4068,15 +4068,15 @@ You can choose from various app shells when creating an experience.
 |UXR Base<br>Experience<br>app shell|The UXR Base Experience<br>shell creates an experience<br>with the Next Experience<br>banner. The UXR Base<br>Experience shell provides<br>base functionality support<br>for experiences that are<br>configured within a parent<br>app, including experience<br>configuration, context<br>binding, routing, screen<br>loading, and caching. The<br>UXR Base Experience shell<br>has no visual or experience-<br>specific components. The<br>UXR Base Experience shell<br>can also be used for<br>experiences that have no<br>shell customization. For<br>example, Identity Center<br>directly uses UXR Base<br>Experience Shell as its app<br>shell.||
 
 
-![](images/UIBuilder.pdf-163-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-163-1.png)
 
-![](images/UIBuilder.pdf-163-2.png)
-
-
-![](images/UIBuilder.pdf-164-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-163-2.png)
 
 
-![](images/UIBuilder.pdf-164-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-164-2.png)
+
+
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-164-1.png)
 ## Manage UI Builder pages and page variants
 
 Learn what a page is in UI Builder. Understand the building blocks of a UI
@@ -4163,7 +4163,7 @@ Use a UI Builder page template to create a page based on a predefined page templ
 You can reference or copy a page template. For more information, see
 Create a page from a template.
 
-![](images/UIBuilder.pdf-166-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-166-1.png)
 
 
 **Create a UI Builder page: Advanced settings**
@@ -4179,7 +4179,7 @@ page. Required parameters are visible in the URL when you add them to
 your page. In the following example, a required parameter called table
 was added. Notice it was appended to the URL.
 
-![](images/UIBuilder.pdf-167-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-167-1.png)
 
 
 Add optional parameters to your UI Builder page. Optional parameters
@@ -4187,7 +4187,7 @@ are optional pieces of data that you can add to the URL of your page.
 Unlike required parameters, optional parameters are always name and
 value pairs that work no matter what order they’re provided.
 
-![](images/UIBuilder.pdf-167-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-167-2.png)
 
 
 Set the audience and conditions settings for UI Builder page variants.
@@ -4199,7 +4199,7 @@ for the manager's direct reports. For more information about creating a
 variant, see Create a page variant.
 
 
-![](images/UIBuilder.pdf-168-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-168-1.png)
 
 
 For more information about audiences, see Learn about audiences.
@@ -4214,7 +4214,7 @@ required parameter, you could add a test value of incident and bind a
 data resource to it to bring in test data on the incident for that table.
 
 
-![](images/UIBuilder.pdf-169-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-169-1.png)
 
 
 To get test values to show data, add a data resource, then configure the
@@ -4225,7 +4225,7 @@ incident test value to a `context.props.table` table, as shown in the
 following image.
 
 
-![](images/UIBuilder.pdf-170-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-170-1.png)
 
 
 **View an existing UI Builder page**
@@ -4236,14 +4236,14 @@ role settings. Click on the name of the page you want to work in while in
 the experience view of your experience.
 
 
-![](images/UIBuilder.pdf-171-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-171-1.png)
 
 
 While in the page editor, open a different page variant by selecting the
 drop-down in the header.
 
 
-![](images/UIBuilder.pdf-172-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-172-1.png)
 
 
 **Create a UI Builder page variant**
@@ -4273,7 +4273,7 @@ Change the settings of your UI Builder page at any time by selecting
 **Settings** in the UI Builder experience view. You can change the name,
 path, and parameters of your page after you create a page.
 
-![](images/UIBuilder.pdf-173-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-173-1.png)
 
 
 See Edit a page for more information.
@@ -4292,7 +4292,7 @@ the component on the page, making it easier to build your page.
 
 Content tree with components
 
-![](images/UIBuilder.pdf-174-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-174-1.png)
 
 
 When you click a component in the content tree, it highlights the
@@ -4309,7 +4309,7 @@ the components much easier in the content tree when they're labeled
 appropriately.
 
 
-![](images/UIBuilder.pdf-175-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-175-1.png)
 
 
 **UI Builder Toolbox**
@@ -4320,7 +4320,7 @@ Access the UI Builder toolbox by selecting **+ Add content** or the **+** icon i
 the stage.
 
 
-![](images/UIBuilder.pdf-176-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-176-1.png)
 
 
 Search the toolbox to find layouts and components that you want to add
@@ -4334,7 +4334,7 @@ different colors if a component can use a preset or is bundled with
 multiple components.
 
 
-![](images/UIBuilder.pdf-177-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-177-1.png)
 
 
 **UI Builder Stage**
@@ -4347,27 +4347,27 @@ selecting a + button, or dragging from the Component pane to the
 page.
 
 
-![](images/UIBuilder.pdf-178-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-178-1.png)
 
 
 On the stage, the body, column layouts, and columns are outlined in
 magenta. Components are outlined in blue.
 
 
-![](images/UIBuilder.pdf-179-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-179-1.png)
 
 
 Use the Tree item icon to navigate to a different layer of content. For
 example, if a column is selected, easily navigate to the parent column
 layout or a component within the column.
 
-![](images/UIBuilder.pdf-179-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-179-2.png)
 
 
 Select the Menu icon on a column layout or component for options such
 as duplicate and delete.
 
-![](images/UIBuilder.pdf-179-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-179-3.png)
 
 
 Changes made on the stage are reflected in the Styles panel at right.
@@ -4381,7 +4381,7 @@ the stage.
 Adjust the size of the stage in the UI Builder editor by selecting the Width
 drop-down.
 
-![](images/UIBuilder.pdf-180-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-180-1.png)
 
 
 **Undo and Redo in UI Builder**
@@ -4401,7 +4401,7 @@ cannot undo and redo changes made in the data shelf.
 
 You can undo the previous 20 actions by selecting the undo drop-down.
 
-![](images/UIBuilder.pdf-181-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-181-1.png)
 
 
 **UI Builder Configuration panel**
@@ -4419,7 +4419,7 @@ list component is more complicated, and contains dozens of editable
 list parameters.
 
 
-![](images/UIBuilder.pdf-182-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-182-1.png)
 
 
 **•** Select the **Styles** tab in the configuration panel to add styling to a
@@ -4428,7 +4428,7 @@ component. You can use standards-based Cascading Style Sheets
 or change a background color, a border, or any other CSS style.
 
 
-![](images/UIBuilder.pdf-183-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-183-1.png)
 
 
 See Change the default appearance of components for more
@@ -4442,7 +4442,7 @@ to perform any action. For example, a button component is static and
 does not do anything until you bind an event action to it, such as
 deleting a record.
 
-![](images/UIBuilder.pdf-184-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-184-1.png)
 
 
 See Manage actions in UI Builder pages for more information.
@@ -4459,7 +4459,7 @@ powerful layout system. CSS Grid is built on top of a two-dimensional
 grid that gives you power over how you create your pages.
 
 
-![](images/UIBuilder.pdf-185-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-185-1.png)
 
 
 See Organize components in UI Builder pages for more information.
@@ -4501,7 +4501,7 @@ From the Menu, edit the UI Builder page as a developer on the platform.
 This option lets you change the platform-level details of your page and
 takes you out of UI Builder. You must have the proper role as a developer.
 
-![](images/UIBuilder.pdf-186-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-186-1.png)
 
 
 **•** Create a page in UI Builder
@@ -4581,7 +4581,7 @@ portal, or custom application user interface (UI).
 
 UI Builder
 
-![](images/UIBuilder.pdf-188-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-188-1.png)
 
 
 **Procedure**
@@ -4601,7 +4601,7 @@ for more information on creating experiences.
 
 4. Select **Create from scratch instead** .
 
-![](images/UIBuilder.pdf-189-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-189-1.png)
 
 
 You can also create pages using page templates, see Create a
@@ -4630,7 +4630,7 @@ forward slash or hyphen. The **URL preview** shows the path of your
 
 page.
 
-![](images/UIBuilder.pdf-190-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-190-1.png)
 
 
 **Note:** The application scope defaults to the scope that the
@@ -4654,7 +4654,7 @@ such as a sys_id, table, or query. Required parameters are useful
 for components, because they can bind to the value of the
 required parameter.
 
-![](images/UIBuilder.pdf-191-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-191-1.png)
 
 
 For more information, see Manage UI Builder pages and page
@@ -4672,7 +4672,7 @@ Unlike required parameters, optional parameters are always
 name and value pairs that work no matter what order that they
 are provided in.
 
-![](images/UIBuilder.pdf-191-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-191-2.png)
 
 
 For more information, see Manage UI Builder pages and page
@@ -4710,7 +4710,7 @@ string.
 the page appears at different screen form factors or select **Build**
 **without responsive** for automatic adjustment.
 
-![](images/UIBuilder.pdf-192-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-192-1.png)
 
 
 For more information, see Responsive authoring.
@@ -4782,7 +4782,7 @@ for more information on creating experiences.
 
 4. Select **Create a new page** .
 
-![](images/UIBuilder.pdf-194-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-194-1.png)
 
 
 5. Select **Use template** when pointing to the template that you want to
@@ -4790,7 +4790,7 @@ for more information on creating experiences.
 use.
 
 
-![](images/UIBuilder.pdf-195-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-195-1.png)
 
 
 6. Enter a unique name for the page in the **Name** field.
@@ -4810,7 +4810,7 @@ forward slash or hyphen. The **URL preview** shows the path of your
 page.
 
 
-![](images/UIBuilder.pdf-196-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-196-1.png)
 
 
 **Note:** The application scope defaults to the scope that the user
@@ -4884,7 +4884,7 @@ for more information on creating experiences.
 
 4. Select **Create a new page** .
 
-![](images/UIBuilder.pdf-198-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-198-1.png)
 
 
 5. Select **Use template** when pointing to the template that you want to
@@ -4892,7 +4892,7 @@ for more information on creating experiences.
 use.
 
 
-![](images/UIBuilder.pdf-199-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-199-1.png)
 
 
 6. Enter a unique name for the page in the **Name** field.
@@ -4909,7 +4909,7 @@ forward slash or hyphen. The **URL preview** shows the path of your
 page.
 
 
-![](images/UIBuilder.pdf-200-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-200-1.png)
 
 
 **Note:** The application scope defaults to the scope that the user
@@ -4941,7 +4941,7 @@ such as a sys_id, table, or query. Required parameters are useful
 for components, because they can bind to the value of the
 required parameter.
 
-![](images/UIBuilder.pdf-201-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-201-1.png)
 
 
 For more information about required and optional page
@@ -4961,7 +4961,7 @@ Unlike required parameters, optional parameters are always
 name and value pairs that work no matter what order that they
 are provided in.
 
-![](images/UIBuilder.pdf-201-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-201-2.png)
 
 
 For more information, see Manage UI Builder pages and page
@@ -5030,14 +5030,14 @@ choose to edit it in the original scope.
 3. Select **Settings** next to the page that you want to edit.
 
 
-![](images/UIBuilder.pdf-203-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-203-1.png)
 
 
 4. In the page settings window you can change the name, path, and
 parameters of your page.
 
 
-![](images/UIBuilder.pdf-204-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-204-1.png)
 
 
 5. (Optional) Add required parameters to your page URL.
@@ -5053,7 +5053,7 @@ for components, because they can bind to the value of the
 required parameter.
 
 
-![](images/UIBuilder.pdf-205-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-205-1.png)
 
 
 For more information, see Manage UI Builder pages and page
@@ -5073,7 +5073,7 @@ name and value pairs that work no matter what order that they
 are provided in.
 
 
-![](images/UIBuilder.pdf-206-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-206-1.png)
 
 
 For more information, see Manage UI Builder pages and page
@@ -5110,23 +5110,23 @@ company. See Enable the user criteria property, for more information.
 
 3. Select **Settings** next to the page variant that you want to edit.
 
-![](images/UIBuilder.pdf-207-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-207-1.png)
 
 
 4. In the page variant settings window, select **Edit all audiences** .
 
 
-![](images/UIBuilder.pdf-208-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-208-1.png)
 
 5. Click **+ Add** .
 
 
-![](images/UIBuilder.pdf-209-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-209-1.png)
 
 6. Select an audience in the audience field.
 
 
-![](images/UIBuilder.pdf-210-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-210-1.png)
 
 
 **Note:** If an audience you need is not listed, you can choose the
@@ -5148,7 +5148,7 @@ the highest priority is used.
 The audience displays in the **Audiences** list.
 
 
-![](images/UIBuilder.pdf-211-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-211-1.png)
 
 
 10. Select **Done** .
@@ -5221,7 +5221,7 @@ data resource to bind a record to the test value in the URL. For example,
 you could add `incident` as a test value.
 
 
-![](images/UIBuilder.pdf-213-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-213-1.png)
 
 
 Then add a data resource named **Look Up Record** . In the **Table field**,
@@ -5229,7 +5229,7 @@ dynamically bind the incident test value to a `context.props.table`
 table, as shown in the following image.
 
 
-![](images/UIBuilder.pdf-214-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-214-1.png)
 
 ## **Create a page variant**
 
@@ -5256,7 +5256,7 @@ example, you can create a homepage for agents, and a variant of that
 page for managers of those agents. The variant exists at the same URL.
 
 
-![](images/UIBuilder.pdf-216-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-216-1.png)
 
 
 **•**
@@ -5307,12 +5307,12 @@ variant.
 
 4. Select **Add a variant to a page** .
 
-![](images/UIBuilder.pdf-217-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-217-1.png)
 
 
 5. Click **+ Add variant** .
 
-![](images/UIBuilder.pdf-217-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-217-2.png)
 
 
 6. Click **Build from scratch instead** or select **Use template** when pointing
@@ -5404,7 +5404,7 @@ shows how to set the variant conditions and order.
 
 3. Select **Settings** next to the page that you want to edit.
 
-![](images/UIBuilder.pdf-219-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-219-1.png)
 
 
 4. On the form, fill in the fields.
@@ -5421,7 +5421,7 @@ shows how to set the variant conditions and order.
 |Audiences|Add or remove audiences for the page<br>variant. For more information, seeLearn about<br>audiences.|
 
 
-![](images/UIBuilder.pdf-221-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-221-1.png)
 
 
 5. Click **Save** .
@@ -5479,7 +5479,7 @@ c. Review the URL parameters and select **Looks good** .
 Notice that table and sysId are added as required parameters,
 which appear in the URL preview.
 
-![](images/UIBuilder.pdf-222-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-222-1.png)
 
 
 d. On the **Tell us about your variant** screen, enter a name for your
@@ -5503,7 +5503,7 @@ e. In the form section, fill out the fields.
 for the **Parameter** field because they're required parameters
 as a part of the **Standard record** template.
 
-![](images/UIBuilder.pdf-224-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-224-1.png)
 
 
 f. Select **Create** .
@@ -5554,7 +5554,7 @@ abcd1234.
 **Note:** You can add **AND** or **OR** conditions. To mix both
 types, you must write an encoded query.
 
-![](images/UIBuilder.pdf-225-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-225-1.png)
 
 
 e. (Optional) Select **Enter as text** to write an encoded query that
@@ -5572,7 +5572,7 @@ you access a record from the Task table with a sys_id of either
 abcd1234 or efgh5678. For more information on writing encoded
 [queries, see Encoded query strings.](https://www.servicenow.com/docs/csh?topicname=c_EncodedQueryStrings&version=zurich&pubname=zurich-platform-user-interface)
 
-![](images/UIBuilder.pdf-226-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-226-1.png)
 
 ## **Use pages across experiences**
 
@@ -5609,7 +5609,7 @@ containing two pages in UI Builder's experience view. You can select the
 icon to go to the **UX App Route** settings page on the platform where
 you can enable or disable the ability to use the page across experiences.
 
-![](images/UIBuilder.pdf-227-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-227-1.png)
 
 
 Reusable pages added to your experience display the name
@@ -5619,7 +5619,7 @@ page title to view details about the page, access the
 
 original experience, adjust page settings, or explore linked pages.
 
-![](images/UIBuilder.pdf-228-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-228-1.png)
 
 
 **Limitations**
@@ -5673,7 +5673,7 @@ The UX App Configuration tab opens.
 6. Select the **Use across experiences** box.
 
 
-![](images/UIBuilder.pdf-230-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-230-1.png)
 
 
 7. Select **Update** .
@@ -5759,7 +5759,7 @@ more control over how pages work and look at different form factors. For
 more information about creating pages in UI Builder, see Create a page
 in UI Builder.
 
-![](images/UIBuilder.pdf-232-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-232-1.png)
 
 
 [For more information about reflow, see Reflow for Configurable](https://www.servicenow.com/docs/csh?topicname=auto-reflow&version=zurich&pubname=zurich-platform-user-interface)
@@ -5806,17 +5806,17 @@ infinity). At any time, select another icon to see the page on the stage
 at a different form factor, such as tablet or mobile. As needed, edit the
 page so it displays appropriately at the new form factor.
 
-![](images/UIBuilder.pdf-233-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-233-1.png)
 
 
 Here's what a sample page looks like at the desktop form factor.
 
-![](images/UIBuilder.pdf-233-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-233-2.png)
 
 
 Here's the same page customized for the tablet form factor.
 
-![](images/UIBuilder.pdf-234-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-234-1.png)
 
 
 For tablet, the heading and image components have been reduced in
@@ -5828,13 +5828,13 @@ this case, tablet). The icon enables you to determine the differences
 between the form factors for a given page easily.
 
 
-![](images/UIBuilder.pdf-235-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-235-1.png)
 
 
 Here's the same page customized for the mobile form factor.
 
 
-![](images/UIBuilder.pdf-236-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-236-1.png)
 
 
 The number of words in the heading was reduced and the image
@@ -5846,7 +5846,7 @@ specifically for mobile have a mobile cascading icon next to them. The
 field is inheriting the tablet setting and wasn't customized for mobile.
 
 
-![](images/UIBuilder.pdf-237-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-237-1.png)
 
 
 In addition to the default form factors in the editor view, at any time
@@ -5855,7 +5855,7 @@ the nearest form factor based on range. For example, entering 850 pixels
 adjusts the stage to the tablet form factor because its range is defined as
 1280 to 501 pixels.
 
-![](images/UIBuilder.pdf-237-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-237-2.png)
 
 
 **Note:** Form factors and the ability to enter a pixel width are also
@@ -5983,7 +5983,7 @@ c. In the configuration panel, select **None - Configure the**
 d. In the configuration panel, on the **Configure** tab, replace the
 default text in the **Label** field by entering `Tasks` .
 
-![](images/UIBuilder.pdf-240-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-240-1.png)
 
 
 e. Select **Save** .
@@ -5997,12 +5997,12 @@ buttons `Incidents` and `Changes` .
 select the menu icon, and then select **Add after** .
 
 
-![](images/UIBuilder.pdf-241-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-241-1.png)
 
 
 9. Check that the content tree and page are accurate.
 
-![](images/UIBuilder.pdf-241-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-241-2.png)
 
 
 10. Add some space around each button.
@@ -6019,7 +6019,7 @@ c. In **Spacing**, select **Margin** .
 
 d. In the menu, select **XS** (extra small).
 
-![](images/UIBuilder.pdf-242-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-242-1.png)
 
 
 e. Select **Save** .
@@ -6039,13 +6039,13 @@ a. Select **Column 1** in the content tree.
 b. On the configuration panel, in **Direction**, select the row icon.
 
 
-![](images/UIBuilder.pdf-243-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-243-1.png)
 
 
 c. Select **Save** .
 The page looks good at desktop width.
 
-![](images/UIBuilder.pdf-243-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-243-2.png)
 
 
 13. Select the tablet form factor icon.
@@ -6054,7 +6054,7 @@ The page looks good at desktop width.
 The spacing and position of the buttons also looks good at tablet
 width.
 
-![](images/UIBuilder.pdf-243-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-243-3.png)
 
 
 14. Select the mobile responsive authoring icon.
@@ -6062,7 +6062,7 @@ width.
 
 The buttons use almost all the horizontal space at the smaller size.
 
-![](images/UIBuilder.pdf-244-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-244-1.png)
 
 
 15. Add the dropdown component.
@@ -6087,7 +6087,7 @@ e. In the configuration panel, on the **Configure** tab, remove the
 default text in **Placeholder text** and select **menu-outline** in **Icon** .
 
 
-![](images/UIBuilder.pdf-245-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-245-1.png)
 
 
 f. Select **Save** .
@@ -6133,7 +6133,7 @@ mobile size. First, in the configuration panel, next to the **Hide**
 to confirm that the value (hide component selected) is for the mobile
 size.
 
-![](images/UIBuilder.pdf-246-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-246-1.png)
 
 
 Second, in the content tree, the three button components are
@@ -6162,7 +6162,7 @@ the arrow, the default options are displayed (List item 1, List item
 display **Tasks**, **Incidents**, and **Changes** just like the horizontal buttons
 available at the tablet and desktop form factors.
 
-![](images/UIBuilder.pdf-247-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-247-1.png)
 
 
 20. Select the desktop and tablet form factor icons at the top.
@@ -6236,7 +6236,7 @@ new column.
 10. View the page at the desktop form factor.
 
 
-![](images/UIBuilder.pdf-249-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-249-1.png)
 
 
 Note the elements displayed, including the icons at the top, the
@@ -6250,7 +6250,7 @@ At the mobile form factor, the list component is crowded and
 contains both vertical and horizontal scroll bars.
 
 
-![](images/UIBuilder.pdf-250-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-250-1.png)
 
 
 Make some simple configuration changes to improve the usability
@@ -6278,7 +6278,7 @@ b. Select the **Hide last refresh information** option.
 
 c. Select the **Hide list actions** option.
 
-![](images/UIBuilder.pdf-251-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-251-1.png)
 
 
 As you made each change, the stage updated automatically.
@@ -6311,7 +6311,7 @@ The range, row count, and rows per page selector were removed.
 (The row count is still available at the top of the mobile screen).
 
 
-![](images/UIBuilder.pdf-252-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-252-1.png)
 
 
 In the configuration panel, the options and fields you edited are
@@ -6321,7 +6321,7 @@ marked with the mobile cascade icon.
 17. Select the mobile cascade icon next to any option or field to confirm
 that the value is for the mobile form factor.
 
-![](images/UIBuilder.pdf-252-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-252-2.png)
 
 
 18. Select the tablet and the desktop form factor icons at the top to
@@ -6398,7 +6398,7 @@ text.
 e. Replace the default text by entering `Critical Operations`
 `Workspace Admin Center` .
 
-![](images/UIBuilder.pdf-254-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-254-1.png)
 
 
 f. Select **Save** .
@@ -6419,12 +6419,12 @@ c. In **Spacing**, select **Margin** .
 d. Select **Large** in the list.
 
 
-![](images/UIBuilder.pdf-255-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-255-1.png)
 
 e. In **Alignment**, select the center icon.
 
 
-![](images/UIBuilder.pdf-256-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-256-1.png)
 
 
 f. Select **Save** .
@@ -6446,7 +6446,7 @@ The stylized text component uses a great deal of vertical space at
 the smaller size.
 
 
-![](images/UIBuilder.pdf-257-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-257-1.png)
 
 
 11. Remove the extra margin space and make the heading smaller just
@@ -6476,7 +6476,7 @@ The stage updates automatically showing that the stylized text
 component uses less space.
 
 
-![](images/UIBuilder.pdf-258-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-258-1.png)
 
 
 12. Select the tablet and the desktop form factor icons at the top to
@@ -6517,7 +6517,7 @@ across form factors:
 **•** All options under **Accessibility**
 
 
-![](images/UIBuilder.pdf-259-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-259-1.png)
 
 
 **Procedure**
@@ -6561,7 +6561,7 @@ c. Select **Save** .
 8. In the configuration panel, on the **Configure** tab, edit the name of
 the first tab by selecting the edit icon.
 
-![](images/UIBuilder.pdf-260-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-260-1.png)
 
 
 9. In **Tab label**, enter `Tab 1` .
@@ -6587,7 +6587,7 @@ c. In **Tab label**, enter `Tab 2` .
 
 d. Check that **Tab ID** has been automatically filled in with **tab_2** .
 
-![](images/UIBuilder.pdf-261-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-261-1.png)
 
 
 e. Select **Create** .
@@ -6601,7 +6601,7 @@ e. Select **Create** .
 14. Check that your content tree and page are accurate.
 
 
-![](images/UIBuilder.pdf-262-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-262-1.png)
 
 
 15. Select the tablet form factor icon.
@@ -6616,7 +6616,7 @@ The spacing and position of the tabs looks good at tablet width.
 The tabs take more space at the smaller size.
 
 
-![](images/UIBuilder.pdf-263-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-263-1.png)
 
 
 17. Change the layout of the tabs just for the mobile size.
@@ -6627,7 +6627,7 @@ a. In the content tree, select **Column 1** under **Column layout 1** .
 
 b. On the configuration panel, in **Direction**, select the row icon.
 
-![](images/UIBuilder.pdf-263-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-263-2.png)
 
 
 c. Select **Save** .
@@ -6635,7 +6635,7 @@ The stage updates automatically showing that tab 1 is visible and
 that there's a new dropdown menu.
 
 
-![](images/UIBuilder.pdf-264-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-264-1.png)
 
 
 18. Select **Preview** .
@@ -6645,7 +6645,7 @@ that there's a new dropdown menu.
 
 The other two tabs are available.
 
-![](images/UIBuilder.pdf-264-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-264-2.png)
 
 
 20. Select the desktop and tablet form factor icons to see that the More
@@ -6713,22 +6713,22 @@ page in UI Builder.
 4. Select the menu icon next to the three form factor icons.
 
 
-![](images/UIBuilder.pdf-266-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-266-1.png)
 
 
 5. Select **+ Add breakpoint** .
 
-![](images/UIBuilder.pdf-266-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-266-2.png)
 
 
 6. Type in a width (in pixels) and select **Add** .
 
-![](images/UIBuilder.pdf-266-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-266-3.png)
 
 
 The new breakpoint is saved and appears as a form factor icon.
 
-![](images/UIBuilder.pdf-266-4.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-266-4.png)
 
 
 As you build the page, select any of the form factor icons to view
@@ -6738,7 +6738,7 @@ and edit the page at that size.
 7. To edit or delete a custom breakpoint, select the menu icon, point to
 the breakpoint name, and select the edit or delete icon.
 
-![](images/UIBuilder.pdf-267-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-267-1.png)
 
 
 **Note:** The default form factors (desktop, tablet, and mobile)
@@ -6790,7 +6790,7 @@ form factor icon. For example, view the variant at tablet or mobile size.
 For more information about creating pages for different form factors,
 see Responsive authoring.
 
-![](images/UIBuilder.pdf-268-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-268-1.png)
 
 
 **Note:** If you edit the test values or the form factor when previewing,
@@ -6841,7 +6841,7 @@ what you want to achieve and how complex the page layout must be.
 These questions determine what type of column layout or layouts you
 should use.
 
-![](images/UIBuilder.pdf-269-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-269-1.png)
 
 
 Column layouts in UI Builder use standards-based Cascading Style Sheets
@@ -6912,14 +6912,14 @@ layouts before adding components.
 Column layouts can have columns of equal or different widths.
 
 
-![](images/UIBuilder.pdf-272-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-272-1.png)
 
 
 You can configure the column layout as a whole and the individual
 columns within the layout. For example, set a different border width and
 color for a column layout and for the individual columns within the layout.
 
-![](images/UIBuilder.pdf-272-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-272-2.png)
 
 
 **Note:** Currently, hiding/showing columns in a column layout based
@@ -6959,7 +6959,7 @@ for more information on creating experiences.
 
 5. Select one of the **Basic** options on the **Layouts** tab.
 
-![](images/UIBuilder.pdf-273-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-273-1.png)
 
 
 The column layout appears on the stage so
@@ -6968,7 +6968,7 @@ you can add components to the columns. See
 
 Add and configure components for more information.
 
-![](images/UIBuilder.pdf-274-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-274-1.png)
 
 
 6. Add additional column layouts above or below.
@@ -6978,14 +6978,14 @@ Add and configure components for more information.
 layout name or select the Menu icon for a column layout. Then,
 select **Add before** or **Add after** from the list and select a layout.
 
-![](images/UIBuilder.pdf-274-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-274-2.png)
 
 
 **•** On the stage, select a column layout, and then select the plus
 sign at the top or bottom.
 
 
-![](images/UIBuilder.pdf-275-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-275-1.png)
 
 
 **Configure column layouts**
@@ -7030,7 +7030,7 @@ name or select the Menu icon for a column and then select **Add**
 **column before** or **Add column after** from the list.
 
 
-![](images/UIBuilder.pdf-276-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-276-1.png)
 
 
 **•** On the stage, select a single column, select the Menu icon next
@@ -7038,13 +7038,13 @@ to the column name, and then select **Add column before** or **Add**
 **column after** from the list.
 
 
-![](images/UIBuilder.pdf-277-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-277-1.png)
 
 
 **•** On the stage, select and hold (or right-click) on a column and
 then select **Add column before** or **Add column after** from the list.
 
-![](images/UIBuilder.pdf-277-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-277-2.png)
 
 
 **•** In the content tree, select a column layout and then on the
@@ -7052,14 +7052,14 @@ stage select the + plus icon to add columns to the right side of
 the column layout.
 
 
-![](images/UIBuilder.pdf-278-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-278-1.png)
 
 
 **•** In the content tree, select a column layout and then in the
 configuration panel use the + plus icon next to **Columns** to add
 columns to the right side of the column layout.
 
-![](images/UIBuilder.pdf-278-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-278-2.png)
 
 
 **Note:** Columns can be nested inside one another, but this level
@@ -7082,7 +7082,7 @@ select **Rename** .
 column name.
 
 
-![](images/UIBuilder.pdf-279-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-279-1.png)
 
 
 Renaming columns can help you distinguish between different
@@ -7096,7 +7096,7 @@ layout (in the content tree or on the stage), then drag a column
 divider on the stage left or right to make the column narrower or
 wider.
 
-![](images/UIBuilder.pdf-279-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-279-2.png)
 
 
 The width percentages at the top of the columns change
@@ -7133,14 +7133,14 @@ using the content tree or the stage.
 position (a blue horizontal line shows where the column can be
 dropped).
 
-![](images/UIBuilder.pdf-280-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-280-1.png)
 
 
 **•** On the stage, select a column header, drag the column to
 a different position, and drop the column into the drop zone
 defined by a vertical magenta line.
 
-![](images/UIBuilder.pdf-281-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-281-1.png)
 
 
 If you reorder the column in the content tree the stage updates, and
@@ -7165,14 +7165,14 @@ a size option in **Column gap** .
 in the configuration panel select a size option in **Column gap** .
 
 
-![](images/UIBuilder.pdf-282-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-282-1.png)
 
 
 11. Select the Tree icon to navigate to a different layer of content, for
 example, from a column to the parent column layout or a child
 component.
 
-![](images/UIBuilder.pdf-282-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-282-2.png)
 
 
 12. Delete columns from the content tree or the stage.
@@ -7243,7 +7243,7 @@ component you just added, select the open menu (three vertical
 dots) icon, and select **Add after** .
 
 
-![](images/UIBuilder.pdf-284-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-284-1.png)
 
 
 d. In the toolbox window, select another component, for example,
@@ -7260,14 +7260,14 @@ components.
 8. In the configuration panel, select a size option in **Gap** .
 
 
-![](images/UIBuilder.pdf-285-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-285-1.png)
 
 
 9. To specify an exact gap size in pixels, move your mouse over the
 **Gap** field, select the **Use custom value** (pencil) icon, and type in a
 number, for example, `300px` .
 
-![](images/UIBuilder.pdf-285-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-285-2.png)
 
 
 10. To change between stacking the components and placing them
@@ -7275,14 +7275,14 @@ next to each other in the column, select the **Row** or **Column** icon in
 **Direction** .
 
 
-![](images/UIBuilder.pdf-286-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-286-1.png)
 
 
 To reverse the order and placement of the components in the
 column, select the **Advanced** (three horizontal dots) icon in **Direction**,
 and then select the **Reverse** option.
 
-![](images/UIBuilder.pdf-286-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-286-2.png)
 
 
 **Set advanced column layout options**
@@ -7321,7 +7321,7 @@ layout.
 content tree.
 
 
-![](images/UIBuilder.pdf-287-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-287-1.png)
 
 
 6. To set a stack width, go to **Configuration panel > Layout** and select
@@ -7332,7 +7332,7 @@ content tree.
 with column layouts looks in a narrow browser window, tablet, or
 mobile device.
 
-![](images/UIBuilder.pdf-287-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-287-2.png)
 
 
 7. Type a width in **Stack columns below** .
@@ -7366,7 +7366,7 @@ component that can be tall, like the List component.
 **Min. H**, and **Max. H** ), and set the sizing unit (for example, **px**, **%**, or
 **em** ).
 
-![](images/UIBuilder.pdf-288-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-288-1.png)
 
 
 14. Select **Save** .
@@ -7467,7 +7467,7 @@ for more information on creating experiences.
 
 3. Select the page that you want to upgrade.
 
-![](images/UIBuilder.pdf-290-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-290-1.png)
 
 
 You can find page variants that can be upgraded to the new layout
@@ -7482,7 +7482,7 @@ with the new layout system.
 4. Select the **Update layout** button.
 
 
-![](images/UIBuilder.pdf-291-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-291-1.png)
 
 
 UI Builder begins updating your page layout to the new layout
@@ -7509,7 +7509,7 @@ or select **Use old** to reverse the upgrade process and return the page
 to the old layout system.
 
 
-![](images/UIBuilder.pdf-292-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-292-1.png)
 
 
 8. The page reloads with the changes applied.
@@ -7560,7 +7560,7 @@ browser's default language, such as right-to-left or left-to-right.
 **•** Column-reverse: Down/up
 Flexbox row and column directions
 
-![](images/UIBuilder.pdf-293-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-293-1.png)
 
 
 **•** Justify content: Defines the alignment along the main axis. Choices are
@@ -7648,7 +7648,7 @@ for more information on creating experiences.
 5. Select **Flexbox** in the layouts tab.
 
 
-![](images/UIBuilder.pdf-295-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-295-1.png)
 
 
 6. Select **Add** .
@@ -7660,7 +7660,7 @@ for more information on creating experiences.
 8. In the **Layout** section, you should see **Flexbox** highlighted.
 
 
-![](images/UIBuilder.pdf-296-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-296-1.png)
 
 
 9. In the **Layout** section of the styles tab, you can change the following:
@@ -7760,7 +7760,7 @@ for more information on creating experiences.
 4. Click the **Layout** tab and choose the two-column layout.
 Standard two-column-layout
 
-![](images/UIBuilder.pdf-298-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-298-1.png)
 
 
 5. Click **Edit layout code** .
@@ -7768,13 +7768,13 @@ Standard two-column-layout
 
 Edit the layout code
 
-![](images/UIBuilder.pdf-299-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-299-1.png)
 
 
 6. Expand the code editor so that you can easily view the CSS code.
 Expand the code editor
 
-![](images/UIBuilder.pdf-299-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-299-2.png)
 
 
 7. Add another slot to the layout by copying the CSS code for an
@@ -7786,7 +7786,7 @@ Copying the code is easier than typing it into the layout.
 
 Copy the CSS code for a slot
 
-![](images/UIBuilder.pdf-300-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-300-1.png)
 
 
 8. Below the code that you copied, place a comma and then paste
@@ -7804,7 +7804,7 @@ c. Add `"margin-left": "1rem"` .
 
 Paste the CSS code
 
-![](images/UIBuilder.pdf-301-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-301-1.png)
 
 
 Changing the "flex" property increases the size of the column. By
@@ -7816,7 +7816,7 @@ using "margin-left", you add space between the previous columns.
 
 Apply a layout change
 
-![](images/UIBuilder.pdf-302-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-302-1.png)
 
 
 **Result**
@@ -7828,13 +7828,13 @@ added to the original two-column layout.
 
 New custom layout
 
-![](images/UIBuilder.pdf-303-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-303-1.png)
 
 
 Click **Reset to original** to reset layout changes back to the original.
 Reset a layout
 
-![](images/UIBuilder.pdf-303-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-303-2.png)
 
 
 Related tasks
@@ -7866,7 +7866,7 @@ make the component span multiple cells.
 
 CSS Grid layout
 
-![](images/UIBuilder.pdf-304-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-304-1.png)
 
 
 Customizing the layout of your page lets you take full advantage of
@@ -7911,7 +7911,7 @@ for more information on creating experiences.
 5. Select **Grid** in the layouts tab.
 
 
-![](images/UIBuilder.pdf-306-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-306-1.png)
 
 
 6. Select the **Styles** tab in the configuration panel.
@@ -7920,7 +7920,7 @@ for more information on creating experiences.
 7. In the **Layout** section, you should see **Grid** highlighted.
 
 
-![](images/UIBuilder.pdf-307-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-307-1.png)
 
 
 8. In the **Layout** section of the styles tab, you can change the following:
@@ -8042,13 +8042,13 @@ for more information on creating experiences.
 
 Standard two-row, two-column layout
 
-![](images/UIBuilder.pdf-310-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-310-1.png)
 
 
 5. Click **Edit layout code** .
 Edit the layout code
 
-![](images/UIBuilder.pdf-310-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-310-2.png)
 
 
 6. Expand the code editor so that you can easily view the CSS code.
@@ -8056,7 +8056,7 @@ Edit the layout code
 
 Expand the code editor
 
-![](images/UIBuilder.pdf-311-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-311-1.png)
 
 
 7. Add another slot to the layout by copying the CSS code for an
@@ -8068,7 +8068,7 @@ Copying the CSS code is easier than typing it into the layout.
 
 Copy the CSS code for a slot
 
-![](images/UIBuilder.pdf-312-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-312-1.png)
 
 
 8. Paste the CSS code below the code that you copied and change
@@ -8077,7 +8077,7 @@ the slotName and grid-area to a unique value.
 
 Paste the CSS code
 
-![](images/UIBuilder.pdf-313-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-313-1.png)
 
 
 9. Modify the layout rules to include the new column and template
@@ -8093,7 +8093,7 @@ b. Add a second `cell1` after `cell1`, and then add `cell5` after
 
 Modify the layout rules
 
-![](images/UIBuilder.pdf-313-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-313-2.png)
 
 
 You can set many different configurations. In this example, there
@@ -8107,7 +8107,7 @@ The "grid-template-areas" property being modified is setting the CSS
 
 Grid template areas
 
-![](images/UIBuilder.pdf-314-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-314-1.png)
 
 
 10. Collapse the expanded view, and then click **Apply** .
@@ -8115,7 +8115,7 @@ Grid template areas
 
 Apply a layout change
 
-![](images/UIBuilder.pdf-315-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-315-1.png)
 
 
 **Result**
@@ -8127,14 +8127,14 @@ original two-row, two-column layout.
 
 New custom layout
 
-![](images/UIBuilder.pdf-316-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-316-1.png)
 
 
 Click **Reset to original** to reset the layout changes back to the original at
 any time.
 Reset a layout
 
-![](images/UIBuilder.pdf-316-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-316-2.png)
 
 
 Related tasks
@@ -8198,7 +8198,7 @@ container to update.
 |New page<br>|In the content tree to the left of<br>the main page area, select the<br>**Body** of your page.<br>**Body** is the root element of the<br>page.<br>|
 
 
-![](images/UIBuilder.pdf-318-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-318-1.png)
 
 
 If you are starting a new page, you can select the layout at the page
@@ -8222,7 +8222,7 @@ the four-column layout to change the layout.
 You can also set the layout for a container. The following image
 shows the layout options for the UI Builder.
 
-![](images/UIBuilder.pdf-319-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-319-1.png)
 
 
 b. If you are creating a page, add components to the new areas in
@@ -8238,7 +8238,7 @@ can change the container layout from three to four columns, and
 then add a new component to the fourth column.
 
 
-![](images/UIBuilder.pdf-320-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-320-1.png)
 
 
 For setting the layout of a new page, the following video shows you
@@ -8251,7 +8251,7 @@ containers to your page.
 
 Change the layout of a page
 
-![](images/UIBuilder.pdf-321-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-321-1.png)
 
 
 7. Add components to slots.
@@ -8272,7 +8272,7 @@ You can add components by using any of the following ways.
 |Directly from your page (option<br>2)|On a column layout or<br>component, select the add<br>before (plus) or add after<br>(plus) icon, and then select a<br>component.|
 
 
-![](images/UIBuilder.pdf-322-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-322-1.png)
 
 
 |To add a component|Do the following|
@@ -8281,7 +8281,7 @@ You can add components by using any of the following ways.
 |From the content tree|In the content tree, select**+**<br>**Add content** and then select a<br>component.|
 
 
-![](images/UIBuilder.pdf-323-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-323-1.png)
 
 
 |To add a component|Do the following|
@@ -8290,7 +8290,7 @@ You can add components by using any of the following ways.
 |From the floating menu above<br>the page|On a column layout or<br>component, select the Menu<br>icon, select**Add before** or<br>**Add after**, and then select a<br>component.|
 
 
-![](images/UIBuilder.pdf-324-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-324-1.png)
 
 
 |To add a component|Do the following|
@@ -8298,7 +8298,7 @@ You can add components by using any of the following ways.
 |||
 
 
-![](images/UIBuilder.pdf-325-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-325-1.png)
 
 
 8. Modify the layout styling options in any of the following ways.
@@ -8314,7 +8314,7 @@ You can add components by using any of the following ways.
 |Choose Flex|a. From the Display list, select**Flex**.<br>b. Select the following options based on how<br>you want to display your container content<br>on the page. The options can also be<br>entered in the CSS styles box:<br>**•** Flex direction: Choose from**Row**, **Row-**<br>**reverse**, **Column**, or**Column-reverse**.<br>**•** Justify content: Choose from any of the<br>following:<br>**• Flex-start**: Items are at the start<br>of the flex direction, similar to left-<br>justified content. This is the default<br>setting.<br>**• Flex-end**: Items are at the end of<br>the flex direction, similar to right-<br>justified content.<br>**• Space-between**: Items are<br>distributed evenly.<br>**• Space-around**: Items are<br>distributed evenly with equal space<br>around them.|
 
 
-![](images/UIBuilder.pdf-326-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-326-1.png)
 
 
 |Option|Instruction|
@@ -8328,7 +8328,7 @@ You can add components by using any of the following ways.
 |Select Grid|a. From the Display list, select**Grid**.|
 
 
-![](images/UIBuilder.pdf-328-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-328-1.png)
 
 
 |Option|Instruction|
@@ -8336,7 +8336,7 @@ You can add components by using any of the following ways.
 ||b. Fill in the following information:<br>**•** Height: Set the height automatically, or<br>manually.<br>**•** Width: Set the height of your grid items<br>automatically or manually.<br>**•** Margin: Set your minimal distance<br>between grid items.<br>**•** Padding: Set the padding for each side<br>of your grid items.|
 
 
-![](images/UIBuilder.pdf-329-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-329-1.png)
 
 ## Customize UI Builder pages using components
 
@@ -8356,7 +8356,7 @@ customize your workspace or portal experience. For example, adding an
 request activity.
 
 
-![](images/UIBuilder.pdf-330-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-330-1.png)
 
 
 You can add components to your UI Builder page in the following ways.
@@ -8365,7 +8365,7 @@ You can add components to your UI Builder page in the following ways.
 **Ways to add a component to a page**
 
 
-![](images/UIBuilder.pdf-330-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-330-2.png)
 
 
 |Location|Example|
@@ -8374,7 +8374,7 @@ You can add components to your UI Builder page in the following ways.
 |Directly from a page in UI Builder<br>(option 2)|On a column layout or<br>component, select the add before<br>(plus) or add after (plus) icon, and<br>then select a component.|
 
 
-![](images/UIBuilder.pdf-331-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-331-1.png)
 
 
 |Location|Example|
@@ -8383,7 +8383,7 @@ You can add components to your UI Builder page in the following ways.
 |From the**Content** tree in UI Builder|In the content tree, select**+**<br>**Add content** and then select a<br>component.|
 
 
-![](images/UIBuilder.pdf-332-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-332-1.png)
 
 
 |Location|Example|
@@ -8392,13 +8392,13 @@ You can add components to your UI Builder page in the following ways.
 |From the floating menu above the<br>page in UI Builder|On a column layout or<br>component, select the Menu icon,<br>select**Add before** or**Add after**,<br>and then select a component.|
 
 
-![](images/UIBuilder.pdf-333-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-333-1.png)
 
 
-![](images/UIBuilder.pdf-334-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-334-2.png)
 
 
-![](images/UIBuilder.pdf-334-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-334-1.png)
 
 **Column layouts in UI Builder**
 
@@ -8412,7 +8412,7 @@ six columns in any column layout. Multiple components can be added to
 a single column. View the structure of your page in the **Content** tree.
 
 
-![](images/UIBuilder.pdf-335-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-335-1.png)
 
 
 For more information, see Column layouts.
@@ -8452,7 +8452,7 @@ modify component properties with UI Builder's low-code JSON editor. For
 For each property in the component configure tab, you can choose from
 the following options.
 
-![](images/UIBuilder.pdf-336-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-336-1.png)
 
 
 **•** Static: Use data from a list, or enter your own data. The data doesn't
@@ -8494,7 +8494,7 @@ stage, select the **Open menu** icon and then select **Developer > Reload**
 **Stage** . Reloading the stage shows your changes, but does not save them.
 To save your work, select **Save** at the top right.
 
-![](images/UIBuilder.pdf-337-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-337-1.png)
 
 
 **Component Presets in UI Builder**
@@ -8506,7 +8506,7 @@ presets use to define component configuration values. For more
 information, see Automatically configure components using presets.
 
 
-![](images/UIBuilder.pdf-338-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-338-1.png)
 
 
 **Component properties sections**
@@ -8518,7 +8518,7 @@ property headings. UI Builder admins can select which component
 configuration properties are displayed or hidden based on UI policies.
 
 
-![](images/UIBuilder.pdf-339-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-339-1.png)
 
 
 **Component formula editor**
@@ -8531,7 +8531,7 @@ input types. The component formula editor supports logical, arithmetic,
 comparison, negation, and functional transform types.
 
 
-![](images/UIBuilder.pdf-340-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-340-1.png)
 
 
 Each function added to the component formula editor auto-completes.
@@ -8553,7 +8553,7 @@ to anything you want, as long as it is unique. Select the name of the
 component in the configuration panel to see the component ID.
 
 
-![](images/UIBuilder.pdf-341-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-341-1.png)
 
 
 **Component visibility**
@@ -8572,7 +8572,7 @@ scripted property value.
 Set the **Test value** to test what happens when the visibility is set to true,
 false, or none.
 
-![](images/UIBuilder.pdf-341-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-341-2.png)
 
 
 **Duplicate components**
@@ -8583,7 +8583,7 @@ page except for the name and ID. A duplicated component copies all
 properties, bindings, and events. For more information, see Duplicate a
 component.
 
-![](images/UIBuilder.pdf-342-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-342-1.png)
 
 
 **•** Automatically configure components using presets
@@ -8749,7 +8749,7 @@ Zurich.
 
 Preset applied to a component
 
-![](images/UIBuilder.pdf-346-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-346-1.png)
 
 
 **Data and event bindings**
@@ -8788,7 +8788,7 @@ to UI Builder pages using controllers (advanced feature).
 
 Components with presets
 
-![](images/UIBuilder.pdf-348-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-348-1.png)
 
 
 Check the **Presets available** box to view components with presets in the
@@ -8833,13 +8833,13 @@ Create a page in UI Builder.
 6. Select the component you want to add to your page.
 
 
-![](images/UIBuilder.pdf-350-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-350-1.png)
 
 
 7. The component automatically configures with the default preset.
 
 
-![](images/UIBuilder.pdf-351-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-351-1.png)
 
 
 8. (Optional) Select a different preset from the list in the configuration
@@ -8854,7 +8854,7 @@ a. Select a new component preset in the configuration panel.
 b. Select **Apply** to replace the existing preset.
 
 
-![](images/UIBuilder.pdf-352-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-352-1.png)
 
 
 9. Click **Save** .
@@ -8878,7 +8878,7 @@ Role required: admin
 1. Select a component with a preset.
 
 
-![](images/UIBuilder.pdf-353-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-353-1.png)
 
 
 2. Find the data value that you want to override in the configuration
@@ -8894,7 +8894,7 @@ panel.
 5. Select **Save** .
 
 
-![](images/UIBuilder.pdf-354-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-354-1.png)
 
 
 **Result**
@@ -8921,18 +8921,18 @@ Role required: admin
 1. Select the component that you want to reset in the content tree.
 
 
-![](images/UIBuilder.pdf-355-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-355-1.png)
 
 
 2. Select the component name in the configuration panel.
 
 
-![](images/UIBuilder.pdf-356-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-356-1.png)
 
 3. Click **Reset component** .
 
 
-![](images/UIBuilder.pdf-357-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-357-1.png)
 
 
 4. Click **Reset** .
@@ -8988,7 +8988,7 @@ Role required: ui_builder_admin
 The preset building window opens.
 
 
-![](images/UIBuilder.pdf-359-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-359-1.png)
 
 
 6. Enter controller test values to preview data in the component preset.
@@ -9003,7 +9003,7 @@ items from the data preview section to the fields in the configure
 panel.
 
 
-![](images/UIBuilder.pdf-360-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-360-1.png)
 
 
 9. (Optional) Add events to the component.
@@ -9061,7 +9061,7 @@ not load on the stage, select the **Open menu** icon and then select
 but does not save them. To save your work, select **Save** at the top
 right.
 
-![](images/UIBuilder.pdf-362-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-362-1.png)
 
 
 **Procedure**
@@ -9089,7 +9089,7 @@ styling.
 5. For Body or a component, select the **Styles** tab in the configuration
 panel.
 
-![](images/UIBuilder.pdf-363-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-363-1.png)
 
 
 6. Use the visual representations on the **Styles** tab to decide what is best
@@ -9122,7 +9122,7 @@ colors in a grid or a list. Alternatively, use the **Custom** tab to specify
 any color in HEX, RGB, or HSL.
 
 
-![](images/UIBuilder.pdf-364-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-364-1.png)
 
 
 **Border (Column layout, Column, and Component)**
@@ -9134,7 +9134,7 @@ padding. Specify the border thickness, type, color, and corner shape.
 For components, you have the option to use custom CSS for the
 border.
 
-![](images/UIBuilder.pdf-364-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-364-2.png)
 
 
 **Layout (Body, Column layout, Column, and Component)**
@@ -9147,7 +9147,7 @@ such as Card Base Container, select **Edit CSS** to apply specific CSS
 styles to the container layer and to the internal layer controlling
 components within the container.
 
-![](images/UIBuilder.pdf-365-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-365-1.png)
 
 
 **Shadow (Column layout, Column, and Component)**
@@ -9166,7 +9166,7 @@ a custom value). This value is relevant for when the browser window is
 resized.
 
 
-![](images/UIBuilder.pdf-366-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-366-1.png)
 
 
 **Spacing (Body, Column layout, and Component)**
@@ -9178,14 +9178,14 @@ space on the immediate outside of the body, column layout, or
 component. Select Margin or Padding to set the same size for all four
 sides.
 
-![](images/UIBuilder.pdf-366-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-366-2.png)
 
 
 You can set the size for each margin or padding side by selecting the
 current setting and then selecting an option.
 
 
-![](images/UIBuilder.pdf-367-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-367-1.png)
 
 
 7. (Optional) For Body and components, you can edit the CSS code by
@@ -9247,7 +9247,7 @@ properties are the most commonly used:
 
 **•** `z-index`
 
-![](images/UIBuilder.pdf-368-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-368-1.png)
 
 
 **Important:** Some components contain built-in styling
@@ -9387,7 +9387,7 @@ Manage the visual style of UI Builder experiences.
 
 Add styling to a component in the Styles configuration panel
 
-![](images/UIBuilder.pdf-371-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-371-1.png)
 
 ## **Enhance accessibility with focus management**
 
@@ -9458,7 +9458,7 @@ Select **Focus parent page** to direct users to the parent page of a
 modal, pop-up, or similar overlay.
 
 
-![](images/UIBuilder.pdf-373-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-373-1.png)
 
 
 10. Select **Continue** .
@@ -9468,7 +9468,7 @@ modal, pop-up, or similar overlay.
 **focus on** list.
 
 
-![](images/UIBuilder.pdf-374-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-374-1.png)
 
 
 12. Select **Add** .
@@ -9525,14 +9525,14 @@ You can also use the keyboard shortcut **cmd + D** (Mac) or **ctrl + D**
 (Windows).
 
 
-![](images/UIBuilder.pdf-376-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-376-1.png)
 
 
 The duplicated component appears below the copied component
 in the content tree.
 
 
-![](images/UIBuilder.pdf-377-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-377-1.png)
 
 
 7. Select **Save** .
@@ -9645,7 +9645,7 @@ However, because of the way seismic works, your page collection page
 can dispatch an event that the calling page can listen for to take action.
 This is the only way to achieve a change in the calling page.
 
-![](images/UIBuilder.pdf-380-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-380-1.png)
 
 
 **Why should you use page collections**
@@ -9719,7 +9719,7 @@ creating a page collection. You can select a controller or pass controller
 dependencies using JSON.
 
 
-![](images/UIBuilder.pdf-382-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-382-1.png)
 
 
 **•** Create a page collection across multiple UI pages
@@ -9828,7 +9828,7 @@ audiences in platform link to create one.
 the page appears at different screen form factors or select **Build**
 **without responsive** for automatic adjustment.
 
-![](images/UIBuilder.pdf-385-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-385-1.png)
 
 
 For more information, see Responsive authoring.
@@ -9850,7 +9850,7 @@ on who is using your experience. Select the drop-down under **Data**
 **visualization type** to preview different types of data visualization.
 
 
-![](images/UIBuilder.pdf-386-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-386-1.png)
 
 
 A preview of the data visualization you selected appears in your page.
@@ -9872,7 +9872,7 @@ of the content.
 
 Tab component example
 
-![](images/UIBuilder.pdf-387-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-387-1.png)
 
 
 Tabs can be organized in the configuration panel to reorder how they
@@ -9935,7 +9935,7 @@ Create a page in UI Builder.
 4. Select the **+ Add content** button on the stage to open the toolbox.
 
 
-![](images/UIBuilder.pdf-389-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-389-1.png)
 
 
 5. Select a **Single column** layout.
@@ -9947,7 +9947,7 @@ Create a page in UI Builder.
 7. Add a **Tabs** component to your page.
 
 
-![](images/UIBuilder.pdf-390-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-390-1.png)
 
 
 For more information on how to add a component to a page, see
@@ -9957,12 +9957,12 @@ Add and configure components.
 8. Select **+ Add tab** on the stage.
 
 
-![](images/UIBuilder.pdf-391-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-391-1.png)
 
 9. Select **Start from an empty container** .
 
 
-![](images/UIBuilder.pdf-392-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-392-1.png)
 
 
 10. Select **Next** .
@@ -9991,7 +9991,7 @@ The new tab displays in the **Tabs** component.
 
 14. Select **+** icon.
 
-![](images/UIBuilder.pdf-393-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-393-1.png)
 
 
 15. Select the component that you want to add to the tab.
@@ -10054,7 +10054,7 @@ Create a page in UI Builder.
 4. Select the **+ Add content** button on the stage to open the toolbox.
 
 
-![](images/UIBuilder.pdf-395-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-395-1.png)
 
 
 5. Select a **Single column** layout.
@@ -10066,7 +10066,7 @@ Create a page in UI Builder.
 7. Add a **Tabs** component to your page.
 
 
-![](images/UIBuilder.pdf-396-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-396-1.png)
 
 
 For more information on how to add a component to a page, see
@@ -10076,12 +10076,12 @@ Add and configure components.
 8. Select **+ Add tab** on the stage.
 
 
-![](images/UIBuilder.pdf-397-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-397-1.png)
 
 9. Select **Use a repeater** .
 
 
-![](images/UIBuilder.pdf-398-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-398-1.png)
 
 
 10. Select **Next** .
@@ -10095,7 +10095,7 @@ displayed in the page preview.
 12. Select **Edit** in the **Data array** field.
 
 
-![](images/UIBuilder.pdf-399-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-399-1.png)
 
 
 13. Configure the data array in the JSON editor.
@@ -10114,14 +10114,14 @@ displayed in the page preview.
 14. Select **Apply** .
 The data array field displays the data array configuration.
 
-![](images/UIBuilder.pdf-400-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-400-1.png)
 
 
 15. Select **Create** .
 The new repeater tab appears on the page and in the content tree.
 
 
-![](images/UIBuilder.pdf-401-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-401-1.png)
 
 
 16. Select **Save** .
@@ -10181,7 +10181,7 @@ Create a page in UI Builder.
 4. Select the **+ Add content** button on the stage to open the toolbox.
 
 
-![](images/UIBuilder.pdf-403-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-403-1.png)
 
 
 5. Select a **Single column** layout.
@@ -10193,7 +10193,7 @@ Create a page in UI Builder.
 7. Add a **Tabs** component to your page.
 
 
-![](images/UIBuilder.pdf-404-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-404-1.png)
 
 
 For more information on how to add a component to a page, see
@@ -10203,12 +10203,12 @@ Add and configure components.
 8. Select **+ Add tab** on the stage.
 
 
-![](images/UIBuilder.pdf-405-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-405-1.png)
 
 9. Select **Display related lists for a record** .
 
 
-![](images/UIBuilder.pdf-406-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-406-1.png)
 
 
 10. Select **Next** .
@@ -10234,7 +10234,7 @@ configuration panel. Only one placeholder tab appears in the page
 preview. The green icon next to the related list tab in the content tree
 shows how many tabs appear on your page.
 
-![](images/UIBuilder.pdf-407-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-407-1.png)
 
 
 13. Select **Save** .
@@ -10286,7 +10286,7 @@ Create a page in UI Builder.
 4. Select the **+ Add content** button on the stage to open the toolbox.
 
 
-![](images/UIBuilder.pdf-409-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-409-1.png)
 
 
 5. Select a **Single column** layout.
@@ -10298,7 +10298,7 @@ Create a page in UI Builder.
 7. Add a **Tabs** component to your page.
 
 
-![](images/UIBuilder.pdf-410-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-410-1.png)
 
 
 For more information on how to add a component to a page, see
@@ -10308,12 +10308,12 @@ Add and configure components.
 8. Select **+ Add tab** on the stage.
 
 
-![](images/UIBuilder.pdf-411-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-411-1.png)
 
 9. Select **Add a page collection** .
 
 
-![](images/UIBuilder.pdf-412-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-412-1.png)
 
 
 10. Select **Next** .
@@ -10325,7 +10325,7 @@ To create your own page collection, see Create a page collection
 across multiple UI pages.
 
 
-![](images/UIBuilder.pdf-413-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-413-1.png)
 
 
 12. Select **Add** .
@@ -10334,7 +10334,7 @@ configuration panel. Only one placeholder tab displays in the page
 preview.
 
 
-![](images/UIBuilder.pdf-414-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-414-1.png)
 
 
 13. Select **Save** .
@@ -10402,7 +10402,7 @@ button.
 7. Select the **Contextual sidebar** component to add it to your page.
 
 
-![](images/UIBuilder.pdf-416-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-416-1.png)
 
 
 The contextual sidebar appears on the stage, and the Tabs section
@@ -10463,7 +10463,7 @@ Then, collect data as the form is completed and submitted.
 
 Form component example
 
-![](images/UIBuilder.pdf-418-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-418-1.png)
 
 
 You can add more than one form to a single page. You can also add a
@@ -10492,7 +10492,7 @@ controllers.
 2. In the data drawer, expand the **Data resources** list and select the
 original form controller.
 
-![](images/UIBuilder.pdf-419-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-419-1.png)
 
 
 3. Select the **Preset** field.
@@ -10500,7 +10500,7 @@ original form controller.
 
 4. Select **Form controller preset** .
 
-![](images/UIBuilder.pdf-419-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-419-2.png)
 
 
 5. Select **Apply** .
@@ -10524,20 +10524,20 @@ property set to true.
 
 8. In the content tree, select a form.
 
-![](images/UIBuilder.pdf-420-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-420-1.png)
 
 
 9. In the configuration panel, on the **Configure** tab, select **Form**
 **Controller** .
 
 
-![](images/UIBuilder.pdf-421-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-421-1.png)
 
 
 10. On the **Edit Form Controller** pop-up, scroll down in the **Form Controller**
 list to find the **Is mapped to App Shell** option.
 
-![](images/UIBuilder.pdf-421-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-421-2.png)
 
 
 11. Select or clear the option for each form component on the page to
@@ -10655,7 +10655,7 @@ Modals in UI Builder can have:
 **•** At least one Modal button (action can be taken by the modal)
 
 
-![](images/UIBuilder.pdf-424-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-424-1.png)
 
 
 **Modal types**
@@ -10750,12 +10750,12 @@ a. Select the **+** icon in the content tree next to **Modals and**
 
 **popovers** .
 
-![](images/UIBuilder.pdf-427-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-427-1.png)
 
 
 b. Choose a modal type such as **Confirm** .
 
-![](images/UIBuilder.pdf-427-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-427-2.png)
 
 
 |Modal type|Description|
@@ -10782,7 +10782,7 @@ handler to the modal that performs the action for the modal,
 such as opening or closing the modal.
 
 
-![](images/UIBuilder.pdf-429-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-429-1.png)
 
 
 |Modal|Configuration Select Small, Medium,|
@@ -10791,13 +10791,13 @@ such as opening or closing the modal.
 |Confirm|**•** Add a header, which is the<br>title of the modal.|
 
 
-![](images/UIBuilder.pdf-430-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-430-1.png)
 
 
-![](images/UIBuilder.pdf-431-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-431-2.png)
 
 
-![](images/UIBuilder.pdf-431-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-431-1.png)
 
 
 |Modal|Configuration • Select Events > Add event|
@@ -10806,13 +10806,13 @@ such as opening or closing the modal.
 |Confirm or destroy|**•** Add a header, which is the<br>title of the modal.|
 
 
-![](images/UIBuilder.pdf-432-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-432-1.png)
 
 
-![](images/UIBuilder.pdf-433-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-433-2.png)
 
 
-![](images/UIBuilder.pdf-433-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-433-1.png)
 
 
 |Modal|Configuration • Select Events > Add event|
@@ -10821,10 +10821,10 @@ such as opening or closing the modal.
 |Custom|**•** Choose a layout for your<br>modal. You can use a|
 
 
-![](images/UIBuilder.pdf-434-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-434-1.png)
 
 
-![](images/UIBuilder.pdf-435-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-435-2.png)
 
 
 flexbox or CSS grid layout.
@@ -10873,13 +10873,13 @@ or a user session for
 Transform.
 
 
-![](images/UIBuilder.pdf-435-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-435-3.png)
 
 
-![](images/UIBuilder.pdf-436-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-436-2.png)
 
 
-![](images/UIBuilder.pdf-436-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-436-1.png)
 
 
 |Modal|Configuration Choose from inherited or|
@@ -10888,10 +10888,10 @@ Transform.
 |Modal viewport|**•** Choose the size of the<br>modal on the screen.<br>Select**Small**, **Medium**,<br>**Large**, or**Fullscreen**.<br>**•** Enable or disable**Hide**<br>**Padding**.|
 
 
-![](images/UIBuilder.pdf-437-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-437-1.png)
 
 
-![](images/UIBuilder.pdf-438-3.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-438-3.png)
 
 
 **•** Enable or disable **Hide**
@@ -10930,7 +10930,7 @@ or a user session for
 Transform.
 
 
-![](images/UIBuilder.pdf-438-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-438-2.png)
 
 
 5. Add a component to your page to trigger the modal you just added,
@@ -10943,7 +10943,7 @@ See Add and configure components for more information.
 
 7. Select **+ Add event handler** .
 
-![](images/UIBuilder.pdf-439-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-439-1.png)
 
 
 8. Select **Open or close modal dialog** .
@@ -10956,7 +10956,7 @@ drop-down.
 10. Click **Add** .
 
 
-![](images/UIBuilder.pdf-440-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-440-1.png)
 
 
 11. When you finish configuring the modal, close it.
@@ -10966,7 +10966,7 @@ Notice in the content tree that the modals you create sit above the
 body of your page structure.
 
 
-![](images/UIBuilder.pdf-441-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-441-1.png)
 
 
 12. Click **Save** .
@@ -11078,7 +11078,7 @@ Create a page in UI Builder.
 
 Viewport component
 
-![](images/UIBuilder.pdf-444-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-444-1.png)
 
 
 9. Select the viewport component in the content tree.
@@ -11087,7 +11087,7 @@ Viewport component
 10. Select **+ Add** in the configuration panel.
 
 
-![](images/UIBuilder.pdf-445-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-445-1.png)
 
 
 11. Select a page collection from the list or create a collection by
@@ -11096,7 +11096,7 @@ For more information on creating your own page collection, see
 Create a page collection across multiple UI pages.
 
 
-![](images/UIBuilder.pdf-446-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-446-1.png)
 
 
 12. Select **Add** .
@@ -11115,7 +11115,7 @@ You can see the ID and route in the Config panel as shown in the
 following figure.
 
 
-![](images/UIBuilder.pdf-447-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-447-1.png)
 
 
 15. Add a component to your page to open the viewport you just
@@ -11128,14 +11128,14 @@ For more information, see Add and configure components.
 
 17. Select **+ Add event handler** to view the viewport.
 
-![](images/UIBuilder.pdf-447-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-447-2.png)
 
 
 18. From **Page-level event handlers**, select **UXF Macroponent Viewport**
 **Load Requested** .
 
 
-![](images/UIBuilder.pdf-448-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-448-1.png)
 
 
 19. In the **viewportElementID** element, replace the `null` value with the
@@ -11146,7 +11146,7 @@ In this example, it is, `"viewport_1"` .
 20. Select **Add** .
 
 
-![](images/UIBuilder.pdf-449-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-449-1.png)
 
 
 21. Select **Save** .
@@ -11215,7 +11215,7 @@ application scope.
 
 Viewport Modal
 
-![](images/UIBuilder.pdf-451-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-451-1.png)
 
 
 A viewport model appears above your page.
@@ -11227,13 +11227,13 @@ A viewport model appears above your page.
 9. Select the viewport in the content tree.
 
 
-![](images/UIBuilder.pdf-452-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-452-1.png)
 
 
 10. Select **+ Add** next to **Page collections** in the configure tab.
 
 
-![](images/UIBuilder.pdf-453-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-453-1.png)
 
 
 11. Select a page collection or create a new one.
@@ -11242,7 +11242,7 @@ For more information, see Create a page collection across multiple UI
 pages.
 
 
-![](images/UIBuilder.pdf-454-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-454-1.png)
 
 
 12. Click **Add** .
@@ -11257,7 +11257,7 @@ pages.
 The following example uses a button to open the viewport modal.
 
 
-![](images/UIBuilder.pdf-455-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-455-1.png)
 
 15. Select the **Events** tab.
 
@@ -11265,7 +11265,7 @@ The following example uses a button to open the viewport modal.
 16. Select **+ Add event handler** .
 
 
-![](images/UIBuilder.pdf-456-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-456-1.png)
 
 
 17. Select **Open or close modal dialog** .
@@ -11276,7 +11276,7 @@ The following example uses a button to open the viewport modal.
 
 19. Select the viewport modal that you created in the **Modal** dropdown.
 
-![](images/UIBuilder.pdf-456-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-456-2.png)
 
 
 The **Viewport ID** auto populates.
@@ -11311,7 +11311,7 @@ Replace your tab or tabs with viewport-enabled tabs.
 and one-way process. You lose any existing tab content and must
 recreate the viewport tab content.
 
-![](images/UIBuilder.pdf-457-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-457-1.png)
 
 
 **Procedure**
@@ -11330,7 +11330,7 @@ for more information on creating experiences.
 to your page.
 Tabs component
 
-![](images/UIBuilder.pdf-458-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-458-1.png)
 
 
 For more information on how to add a Tabs component to a page,
@@ -11348,13 +11348,13 @@ tabs in the content tree.
 permanent and one-way process. You lose any existing tab
 content and must recreate the viewport tab content.
 
-![](images/UIBuilder.pdf-459-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-459-1.png)
 
 
 6. Select **Replace with viewport tabs** .
 
 
-![](images/UIBuilder.pdf-460-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-460-1.png)
 
 
 7. Click **Edit content** to add a viewport-enabled tab.
@@ -11362,7 +11362,7 @@ content and must recreate the viewport tab content.
 
 Edit content
 
-![](images/UIBuilder.pdf-461-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-461-1.png)
 
 
 For more information on viewport components, see Add a viewport
@@ -11417,7 +11417,7 @@ Builder pages.
 
 19. Select **← Back to (name of page)** to return to your original page.
 
-![](images/UIBuilder.pdf-462-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-462-1.png)
 
 
 20. In **Data driven tabs**, select a data source to bind data to your
@@ -11429,14 +11429,14 @@ You then bind these data properties to components in your tab.
 For more information about using data resources, see Dynamically
 expose data in UI Builder pages (advanced feature).
 
-![](images/UIBuilder.pdf-463-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-463-1.png)
 
 
 21. Choose where the viewport-enabled tab labels appear on the page
 and decide whether to hide tab labels so you only see the icons.
 
 
-![](images/UIBuilder.pdf-464-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-464-1.png)
 
 ## **Create popovers in UI Builder**
 
@@ -11465,7 +11465,7 @@ part of the page. For more information, see Define map events.
 
 Informational popover
 
-![](images/UIBuilder.pdf-465-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-465-1.png)
 
 
 **Add popover to a UI Builder page**
@@ -11510,7 +11510,7 @@ See Add and configure components for more information.
 
 6. Select **+ Add event handler** .
 
-![](images/UIBuilder.pdf-466-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-466-1.png)
 
 
 7. Select **Open Popover** .
@@ -11519,7 +11519,7 @@ See Add and configure components for more information.
 8. Select **Create a new popover** .
 
 
-![](images/UIBuilder.pdf-467-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-467-1.png)
 
 
 9. Select **Add** .
@@ -11529,7 +11529,7 @@ The popover appears above the stage.
 10. Add components to the popover by selecting the **+** icon.
 
 
-![](images/UIBuilder.pdf-468-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-468-1.png)
 
 
 11. When you finish configuring the popover, close it.
@@ -11539,7 +11539,7 @@ Notice in the content tree that the popovers you create sit above
 the body of your page structure.
 
 
-![](images/UIBuilder.pdf-469-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-469-1.png)
 
 
 12. Click **Save** .
@@ -11580,7 +11580,7 @@ composing an email, using chat, adding work notes or comments,
 reading help information, or adding/viewing attachments in the
 modeless dialog.
 
-![](images/UIBuilder.pdf-470-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-470-1.png)
 
 
 **Anatomy of a modeless dialog**
@@ -11604,7 +11604,7 @@ component to a page.
 **•** If needed, provide additional buttons or content in the footer at the
 bottom of the modeless dialog.
 
-![](images/UIBuilder.pdf-471-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-471-1.png)
 
 
 **•** Add modeless dialog to a UI Builder page
@@ -11662,7 +11662,7 @@ Create a page in UI Builder.
 + icon, and select the **Modeless dialog** component.
 
 
-![](images/UIBuilder.pdf-473-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-473-1.png)
 
 
 5. If the modeless dialog doesn't appear on the stage automatically,
@@ -11675,7 +11675,7 @@ added automatically with the modeless dialog, for example, the
 width, height, position, and enable drag setting.
 
 
-![](images/UIBuilder.pdf-474-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-474-1.png)
 
 
 All of these preset properties can be edited, if necessary.
@@ -11689,7 +11689,7 @@ All of these preset properties can be edited, if necessary.
 added automatically.
 
 
-![](images/UIBuilder.pdf-475-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-475-1.png)
 
 
 8. In the content tree, select **+ Add content** under **Modeless dialog**
@@ -11702,7 +11702,7 @@ added automatically.
 10. In the **Stylized text** configuration panel, select **None** to configure the
 component manually.
 
-![](images/UIBuilder.pdf-475-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-475-2.png)
 
 
 If the **Record subheading** preset was automatically added, select the
@@ -11710,7 +11710,7 @@ drop-down arrow, select **None**, and select **Remove** on the **Configure**
 tab.
 
 
-![](images/UIBuilder.pdf-476-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-476-1.png)
 
 
 11. If not open already, select **Configure** to open the configure tab.
@@ -11718,7 +11718,7 @@ tab.
 
 12. In **Text**, remove the sample text and type `Add Attachments` .
 
-![](images/UIBuilder.pdf-476-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-476-2.png)
 
 
 13. Select **Save** in the UI Builder header.
@@ -11736,7 +11736,7 @@ body.
 select **Record attachments** and **Apply** to configure the component
 with a preset.
 
-![](images/UIBuilder.pdf-477-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-477-1.png)
 
 
 For more information about configuring the Attachments
@@ -11756,7 +11756,7 @@ provide the functionality for the minimize icon in the modeless dialog
 header.
 
 
-![](images/UIBuilder.pdf-478-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-478-1.png)
 
 
 19. In the content tree, select **Body** .
@@ -11777,13 +11777,13 @@ bottom of the page.
 
 c. On the stage, select the + icon in the new column layout.
 
-![](images/UIBuilder.pdf-478-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-478-2.png)
 
 
 d. Search for and select the **Button bare** component.
 
 
-![](images/UIBuilder.pdf-479-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-479-1.png)
 
 
 e. In the configuration panel, on the **Configure** tab, select **None** to
@@ -11795,7 +11795,7 @@ f. Select the **Events** tab in the configuration panel.
 
 g. Select **+ Add event handler** .
 
-![](images/UIBuilder.pdf-479-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-479-2.png)
 
 
 h. In the list at left, select **Open Modeless dialog** (you may need to
@@ -11813,14 +11813,14 @@ heading and a category.
 k. Select **Add** .
 
 
-![](images/UIBuilder.pdf-480-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-480-1.png)
 
 l. Select the **Configure** tab.
 
 
 m. Type `Add Attachments` in **Label** .
 
-![](images/UIBuilder.pdf-480-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-480-2.png)
 
 
 21. Select **Save** .
@@ -11838,7 +11838,7 @@ at the top and the Attachments component below.
 24. To test the minimize functionality, select the minimize icon on the
 modeless dialog.
 
-![](images/UIBuilder.pdf-481-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-481-1.png)
 
 
 The modeless dialog is minimized and can be accessed from the
@@ -11848,7 +11848,7 @@ Minimized dialogs drop down.
 25. Select the minimized dialogs icon and then select **Attachments** to
 open the modeless dialog window again.
 
-![](images/UIBuilder.pdf-481-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-481-2.png)
 
 
 Learn how to add and configure a modeless dialog event, such as open,
@@ -11900,7 +11900,7 @@ page.
 
 8. Select **+ Add event handler** .
 
-![](images/UIBuilder.pdf-482-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-482-1.png)
 
 
 9. From the Event handler preview window, select an action to assign to
@@ -11908,7 +11908,7 @@ the button.
 There are five modeless dialog event handlers available.
 
 
-![](images/UIBuilder.pdf-483-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-483-1.png)
 
 
 **Note:** For any of the event handlers, select **Script** in the **Mode**
@@ -11957,7 +11957,7 @@ drop-down if you prefer to work in the script editor.
 The configured event handler displays in the configuration panel **Events**
 tab for the component.
 
-![](images/UIBuilder.pdf-488-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-488-1.png)
 
 ## **Configure alerts to auto-dismiss**
 
@@ -12015,7 +12015,7 @@ for more information on creating experiences.
 alert type you wish to configure.
 
 
-![](images/UIBuilder.pdf-490-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-490-1.png)
 
 
 For this example, select the **Auto-dismiss** option next to the **Info** alert
@@ -12051,7 +12051,7 @@ the **+** to add more alerts, then select the alert in the dropdown to
 configure it.
 
 
-![](images/UIBuilder.pdf-491-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-491-1.png)
 
 
 For this example, leave the alert **Type** as **Info** .
@@ -12061,7 +12061,7 @@ For this example, leave the alert **Type** as **Info** .
 in the **Timeout** field.
 
 
-![](images/UIBuilder.pdf-492-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-492-1.png)
 
 
 This specific **Info** alert disappears after 10 seconds.
@@ -12116,7 +12116,7 @@ Events include:
 **•** Page loads
 
 
-![](images/UIBuilder.pdf-494-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-494-1.png)
 
 
 **Events in UI Builder**
@@ -12168,7 +12168,7 @@ when data is fetched.
 **•** Events for a page or component do nothing until the event is mapped
 to one or more event handlers.
 
-![](images/UIBuilder.pdf-495-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-495-1.png)
 
 
 **Event mapping in UI Builder**
@@ -12223,10 +12223,10 @@ that you can use and what you can do with them.
 **Inherited event handlers**
 
 
-![](images/UIBuilder.pdf-496-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-496-1.png)
 
 
-![](images/UIBuilder.pdf-497-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-497-1.png)
 
 
 |Link to destination|Navigate to a destination.<br>• App routes: Link to another<br>page within an app, like a<br>home screen.<br>• External URL: Link to a website or<br>any external URL.<br>Sample script<br>return {<br>route: null, /* Pa<br>ge route, e.g. 'record' */<br>fields: null, /* R<br>equired params, e.g. {"tab<br>le":"incident","sysId":"X"<br>} */<br>params: null, /* O<br>ptional params, e.g. {"sel<br>ectedIndex" : 1} */<br>redirect: null, /<br>* ??? True/false? */<br>passiveNavigation<br>: null, /* Load in backgr<br>ound, e.g. 'false' */<br>title: null,<br>multiInstField: nu<br>ll,<br>targetRoute: null<br>, /* ??? */<br>external: null /*<br>??? True/false? */<br>};|
@@ -12234,7 +12234,7 @@ that you can use and what you can do with them.
 |Add parameters to URL|Add additional parameters to a<br>URL.<br>Sample script<br>~~`{ “selectedTabIndex” : 0 }`~~|
 
 
-![](images/UIBuilder.pdf-498-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-498-1.png)
 
 
 **•** Page-level event handlers. This type of event handler is common to all
@@ -12375,7 +12375,7 @@ selecting **Configure declarative action event mapping**, you add a new
 event handler to define what the declarative action does on the page.
 
 
-![](images/UIBuilder.pdf-502-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-502-1.png)
 
 
 For more information, see Bind an event to a declarative action.
@@ -12489,19 +12489,19 @@ Builder and provides some examples on how you can use the events.
 |Page events|Page event that performs an<br>action for the entire page. You<br>can configure the following page<br>events:<br>**•** Page event mappings.<br>**•** These event mappings are<br>saved on the page definition<br>record, which can be found|
 
 
-![](images/UIBuilder.pdf-505-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-505-1.png)
 
 
-![](images/UIBuilder.pdf-506-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-506-1.png)
 
 
-![](images/UIBuilder.pdf-507-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-507-1.png)
 
 
-![](images/UIBuilder.pdf-508-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-508-2.png)
 
 
-![](images/UIBuilder.pdf-508-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-508-1.png)
 
 
 |Event type|Description For more information on binding|
@@ -12516,10 +12516,10 @@ Builder and provides some examples on how you can use the events.
 |Declarative action events|Bind data elements within UI<br>Builder to add event actions to a<br>declarative action.<br>You configure a declarative action<br>event mapping in the ServiceNow|
 
 
-![](images/UIBuilder.pdf-510-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-510-1.png)
 
 
-![](images/UIBuilder.pdf-511-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-511-1.png)
 
 
 ## **Event payloads in UI Builder**
@@ -12540,7 +12540,7 @@ example, a SysID can be passed to other components on a page to
 display information related to a specified record.
 
 
-![](images/UIBuilder.pdf-512-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-512-1.png)
 
 
 Each component and event has a unique set of payload options. Event
@@ -12597,14 +12597,14 @@ a. To start the process of setting up an event handler for your
 component, click **Add event mapping** .
 
 
-![](images/UIBuilder.pdf-514-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-514-1.png)
 
 
 b. Select the event mapping that you want to configure from the
 list.
 
 
-![](images/UIBuilder.pdf-515-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-515-1.png)
 
 
 c. Select **Continue** .
@@ -12614,9 +12614,9 @@ d. From the Event handler preview section, select an event handler
 to bind to your component.
 
 
-![](images/UIBuilder.pdf-516-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-516-1.png)
 
-![](images/UIBuilder.pdf-516-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-516-2.png)
 
 
 e. Select **Continue** .
@@ -12638,13 +12638,13 @@ i. Enter a value in the **Initial value** field.
 j. Select the bind data icon in the **Value to use after triggering**
 **event** field.
 
-![](images/UIBuilder.pdf-517-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-517-1.png)
 
 
 k. Select the value you would like to bind to the triggered event.
 
 
-![](images/UIBuilder.pdf-518-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-518-1.png)
 
 
 l. Select **Apply** .
@@ -12655,7 +12655,7 @@ The data handler will appear below the event mapping in the
 events tab.
 
 
-![](images/UIBuilder.pdf-519-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-519-1.png)
 
 
 6. Select the component you want to bind the client state parameter
@@ -12666,7 +12666,7 @@ to, in this example we will be using a heading component.
 parameter to.
 
 
-![](images/UIBuilder.pdf-520-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-520-1.png)
 
 
 8. Select **Client states** .
@@ -12675,7 +12675,7 @@ parameter to.
 9. Select the arrow next to the client state parameter you want to bind.
 
 
-![](images/UIBuilder.pdf-521-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-521-1.png)
 
 
 10. Select **Apply** .
@@ -12755,20 +12755,20 @@ Some components, such as the button component, only have one
 event mapping. Other components can have many events.
 
 
-![](images/UIBuilder.pdf-523-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-523-1.png)
 
 
 7. Select an event mapping that you want to configure from the list.
 
 
-![](images/UIBuilder.pdf-524-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-524-1.png)
 
 
 8. From the Event handler preview screen, select an action that you
 want assigned to the component.
 
 
-![](images/UIBuilder.pdf-525-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-525-1.png)
 
 
 9. Select **Continue** .
@@ -12778,7 +12778,7 @@ want assigned to the component.
 earlier step.
 
 
-![](images/UIBuilder.pdf-526-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-526-1.png)
 
 11. Select **Continue** .
 
@@ -12786,7 +12786,7 @@ earlier step.
 12. Configure the payload for the event.
 
 
-![](images/UIBuilder.pdf-527-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-527-1.png)
 
 
 13. Select **Add** .
@@ -12806,7 +12806,7 @@ The configured event handler displays in the events tab of the
 configuration panel.
 
 
-![](images/UIBuilder.pdf-528-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-528-1.png)
 
 ## **Configure an event handler with Now Assist**
 
@@ -12870,7 +12870,7 @@ prompts.
 **•** You can reference data from page context.
 
 
-![](images/UIBuilder.pdf-530-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-530-1.png)
 
 
 9. Select the right arrow icon.
@@ -12990,14 +12990,14 @@ a. To start the process of setting up an event handler for your
 component, click **Add event mapping** .
 
 
-![](images/UIBuilder.pdf-533-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-533-1.png)
 
 
 b. Select the event mapping that you want to configure from the
 list.
 
 
-![](images/UIBuilder.pdf-534-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-534-1.png)
 
 
 c. Select **Continue** .
@@ -13007,7 +13007,7 @@ d. From the Event handler preview section, select an event handler
 to bind to your component.
 
 
-![](images/UIBuilder.pdf-535-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-535-1.png)
 
 
 e. Select **Continue** .
@@ -13034,12 +13034,12 @@ modal to component.
 
 a. Select the **+** icon in the content tree next to **Modals** .
 
-![](images/UIBuilder.pdf-536-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-536-1.png)
 
 
 b. Choose a modal type such as **Confirm** .
 
-![](images/UIBuilder.pdf-536-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-536-2.png)
 
 
 c. Configure the modal.
@@ -13072,7 +13072,7 @@ d. In the Configuration pane, click **Events** .
 
 e. Select **Add handler** .
 
-![](images/UIBuilder.pdf-537-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-537-1.png)
 
 
 The button component only has the button-clicked event
@@ -13090,7 +13090,7 @@ alert notifications. In this example, you can choose **Open or close**
 created earlier. In this button scenario, select the Confirm and
 destroy modal dialog event handler that you created earlier.
 
-![](images/UIBuilder.pdf-538-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-538-1.png)
 
 
 g. Select **Continue** .
@@ -13174,13 +13174,13 @@ Create a page in UI Builder.
 The body is the top-level line of the content tree. When you highlight
 the whole page, you can add page-level events.
 
-![](images/UIBuilder.pdf-540-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-540-1.png)
 
 
 5. In the configuration panel, select the **Events** tab.
 
 
-![](images/UIBuilder.pdf-541-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-541-1.png)
 
 
 6. Add an event handler in one of the following ways.
@@ -13201,7 +13201,7 @@ the whole page, you can add page-level events.
 ||different event handlers to set<br>up.<br>a. Select**Add event mappings**.<br>For example, you can add a<br>new event handler for**Row**<br>**clicked**.<br>b. Select an event handler<br>from the list of available<br>Inherited event handlers or<br>local event handlers like the<br>UXR App Shell Data Source.<br>c. To add the event handler to<br>your variant, select**Add**.|
 
 
-![](images/UIBuilder.pdf-543-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-543-1.png)
 
 
 |To add this event handler|Do this|
@@ -13215,7 +13215,7 @@ the whole page, you can add page-level events.
 ||c. In the**Add an event** screen,<br>do the following actions:<br>**•** Type a label for your<br>event.<br>**•** Select a target parent<br>event handler.<br>d. To add the event handler<br>to your dispatched events,<br>select**Add**.<br>e. The new event handler<br>that you created appears<br>in**Dispatched events**. The<br>following example shows|
 
 
-![](images/UIBuilder.pdf-545-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-545-1.png)
 
 
 |To add this event handler|Do this|
@@ -13223,7 +13223,7 @@ the whole page, you can add page-level events.
 ||how to add a Link to<br>destination event handler.<br>**•**<br>These events are in the<br>[sys_ux_event] table. The<br>page definition record<br>contains references to the<br>[sys_ux_event] record.<br>**•**<br>These events serve as source<br>events for variant event<br>mappings.<br>**•**<br>To create new dispatched<br>events for your page,<br>select<br>. Configure<br>the event label to auto-<br>populate the event name<br>and payload fields for your<br>new`sys_ux_event`.<br>**•**|
 
 
-![](images/UIBuilder.pdf-546-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-546-1.png)
 
 
 |To add this event handler|Do this|
@@ -13292,7 +13292,7 @@ page.
 6. Select a data resource instance.
 
 
-![](images/UIBuilder.pdf-549-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-549-1.png)
 
 
 7. To add an event handler to your data resource, select the **Events** tab
@@ -13302,7 +13302,7 @@ in the configuration panel of the data resource.
 You can add event handlers to your data resource to handle actions
 for Operation Initiated, Operation Succeeded, and Operation Failed.
 
-![](images/UIBuilder.pdf-549-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-549-2.png)
 
 
 8. Select **Add event mapping** .
@@ -13310,7 +13310,7 @@ for Operation Initiated, Operation Succeeded, and Operation Failed.
 
 9. Select an event from the list.
 
-![](images/UIBuilder.pdf-550-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-550-1.png)
 
 
 10. Select **Continue** .
@@ -13319,7 +13319,7 @@ for Operation Initiated, Operation Succeeded, and Operation Failed.
 11. Select an event handler from the list.
 
 
-![](images/UIBuilder.pdf-551-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-551-1.png)
 
 
 12. Select **Continue** .
@@ -13441,18 +13441,18 @@ app shell UI as the experience with the page templates.
 8. Select **+ Add event handler** .
 
 
-![](images/UIBuilder.pdf-554-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-554-1.png)
 
 
 9. In the Inherited event handlers section, select **Link to destination** .
 
 
-![](images/UIBuilder.pdf-555-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-555-1.png)
 
 10. Click **Select destination** .
 
 
-![](images/UIBuilder.pdf-556-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-556-1.png)
 
 
 11. Expand **Pages** and select the page in the experience that you want
@@ -13470,7 +13470,7 @@ shown in the following example, the payload value may not match
 the parameter name.
 
 
-![](images/UIBuilder.pdf-557-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-557-1.png)
 
 
 **Note:** You have the option to link to an External URL instead of
@@ -13508,7 +13508,7 @@ the Test experience UX application. Because it uses the same Agent
 Workspace App Shell UI as the Base Agent Workspace, you can use the
 page templates from the Base Agent Workspace.
 
-![](images/UIBuilder.pdf-558-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-558-1.png)
 
 
 You next select the Test workspace admin panel, find an UX App
@@ -13522,7 +13522,7 @@ template from the Base Agent Workspace. Next, you select the option to
 copy only the contents of the page template.
 
 
-![](images/UIBuilder.pdf-559-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-559-1.png)
 
 
 You select the Analytics Q&A 1 component and open the **Events** tab.
@@ -13550,7 +13550,7 @@ values correspond to, and that the **Title** field can be populated with
 |disableInlineEditing|none|
 
 
-![](images/UIBuilder.pdf-561-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-561-1.png)
 
 
 Next, you navigate to **Menu > Create page** and create a page that is
@@ -13561,7 +13561,7 @@ would add `table` as a required parameter and `listTitle`, `query`, and
 `disableInlineEditing` as optional parameters.
 
 
-![](images/UIBuilder.pdf-562-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-562-1.png)
 
 
 Because this page already contains a List component, when you open
@@ -13569,7 +13569,7 @@ the **Config** tab for this component, you see that the parameters are
 already passed in the `@context.props.*` values.
 
 
-![](images/UIBuilder.pdf-563-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-563-1.png)
 
 
 Now, you return to the Analytics Center page. In the **Report Visualization**
@@ -13580,7 +13580,7 @@ from the **Link to destination Relay** event handler. Predictive typing helps
 you to fill in these fields.
 
 
-![](images/UIBuilder.pdf-564-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-564-1.png)
 
 
 After you click **OK** and add `@payload.listTitle` as the **Title**, the event
@@ -13597,7 +13597,7 @@ in the report.
 
 Triggering the configured Report Visualization Clicked event
 
-![](images/UIBuilder.pdf-565-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-565-1.png)
 
 
 Bind data elements within UI Builder so that you can add event actions to
@@ -13652,7 +13652,7 @@ action definition record.
 
 Platform declarative action definition record
 
-![](images/UIBuilder.pdf-566-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-566-1.png)
 
 
 6. Select the **Active** check box, and then save or update the record.
@@ -13665,7 +13665,7 @@ Platform declarative action definition record
 the Configure panel and click **Configure declarative action event**
 **mapping** .
 
-![](images/UIBuilder.pdf-567-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-567-1.png)
 
 
 9. Choose the declarative action that you created earlier.
@@ -13703,7 +13703,7 @@ e. Select **Save** .
 13. Test the declarative action on your page by clicking **Complete my**
 **work** to see if it works.
 
-![](images/UIBuilder.pdf-568-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-568-1.png)
 
 ## **Disable component preset event mappings**
 
@@ -13742,7 +13742,7 @@ Create a page in UI Builder.
 
 5. Select the **Events** tab in the configuration panel.
 
-![](images/UIBuilder.pdf-569-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-569-1.png)
 
 
 6. Select the event that you want to disable.
@@ -13751,7 +13751,7 @@ Create a page in UI Builder.
 7. Select **Disable** .
 
 
-![](images/UIBuilder.pdf-570-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-570-1.png)
 
 
 8. Select **Done** .
@@ -13764,7 +13764,7 @@ The component preset event shows **Disabled** in the **Events** tab of the
 configuration panel.
 
 
-![](images/UIBuilder.pdf-571-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-571-1.png)
 
 ## **Delete an event handler**
 
@@ -13800,18 +13800,18 @@ Create a page in UI Builder.
 
 5. Select the **Events** tab in the configuration panel.
 
-![](images/UIBuilder.pdf-572-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-572-1.png)
 
 
 6. Select the event handler that you want to delete.
 
 
-![](images/UIBuilder.pdf-573-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-573-1.png)
 
 7. Select **Delete** .
 
 
-![](images/UIBuilder.pdf-574-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-574-1.png)
 
 
 8. Select **Delete** in the confirmation modal.
@@ -13824,7 +13824,7 @@ If you would like to delete the event mapping, see Delete an event
 mapping.
 
 
-![](images/UIBuilder.pdf-575-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-575-1.png)
 
 ## **Delete an event mapping**
 
@@ -13860,19 +13860,19 @@ Create a page in UI Builder.
 
 5. Select the **Events** tab in the configuration panel.
 
-![](images/UIBuilder.pdf-576-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-576-1.png)
 
 
 6. Select the delete all icon ( ) next to the event you want to delete.
 
 
-![](images/UIBuilder.pdf-577-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-577-1.png)
 
 
 7. The event mapping is removed from the associated component.
 
 
-![](images/UIBuilder.pdf-578-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-578-1.png)
 
 ## **Add events to track components with unsaved** **changes**
 
@@ -13937,7 +13937,7 @@ d. Select the **Screen status changed to dirty** event and select
 **Continue** .
 
 
-![](images/UIBuilder.pdf-580-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-580-1.png)
 
 
 e. Select the **Screen is dirty** check box to mark the property as
@@ -14039,7 +14039,7 @@ for more information on creating experiences.
 
 3. Select **Settings** in the UI Builder header.
 
-![](images/UIBuilder.pdf-582-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-582-1.png)
 
 
 4. Scroll to the **Branding and theming** section and note what is listed in
@@ -14114,7 +14114,7 @@ for more information on creating experiences.
 
 The **Page classes and rules** pop up will appear.
 
-![](images/UIBuilder.pdf-584-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-584-1.png)
 
 
 7. (Optional) Select **+ Add class** .
@@ -14175,21 +14175,21 @@ the undo button. A dot on the avatar of the user represents online status.
 
 **•** No dot if the user is not logged in
 
-![](images/UIBuilder.pdf-585-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-585-1.png)
 
 
 A banner will appear asking you to reload the page to view the latest
 version if changes are made by other users while you are editing a page.
 
 
-![](images/UIBuilder.pdf-586-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-586-1.png)
 
 
 If you have made changes at the same time as another user you will
 be prompted to **Overwrite and save** your changes to proceed with
 previewing the page.
 
-![](images/UIBuilder.pdf-586-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-586-2.png)
 
 
 **Find and compare page changes**
@@ -14224,12 +14224,12 @@ compare changes.
 5. Select **Compare versions** .
 
 
-![](images/UIBuilder.pdf-588-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-588-1.png)
 
 The **Version comparison** drawer opens.
 
 
-![](images/UIBuilder.pdf-589-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-589-1.png)
 
 
 6. Review changes by selecting an item that displays one of the
@@ -14259,12 +14259,12 @@ missing configurations, errors, and accessibility standards. The list of issues
 can be found within the experience view of UI Builder under the **Find and**
 **fix issues** section.
 
-![](images/UIBuilder.pdf-590-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-590-1.png)
 
 
 Find and fix issues list
 
-![](images/UIBuilder.pdf-591-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-591-1.png)
 
 
 You can also find UI Builder issues in the header of the page builder
@@ -14272,7 +14272,7 @@ next to the **Save** button. The button auto updates as it finds errors and
 recommendations for the content on your page.
 
 
-![](images/UIBuilder.pdf-592-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-592-1.png)
 
 
 To find more information, select the builder icon to view the list of
@@ -14280,7 +14280,7 @@ recommendations made by UI Builder. Each error and warning will list the
 component name that contains the issue.
 
 
-![](images/UIBuilder.pdf-593-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-593-1.png)
 
 
 **Find and fix issues in UI Builder**
@@ -14307,14 +14307,14 @@ Role required: ui_builder_admin
 
 3. Select **See more** under the **Find and fix issues** section.
 
-![](images/UIBuilder.pdf-594-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-594-1.png)
 
 
 4. Fix the issues found in your experience by selecting button under the
 **Reference** section.
 
 
-![](images/UIBuilder.pdf-595-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-595-1.png)
 
 
 A new tab will open to the page with the issue.
@@ -14324,13 +14324,13 @@ A new tab will open to the page with the issue.
 issue and which component contains the issue.
 
 
-![](images/UIBuilder.pdf-596-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-596-1.png)
 
 
 The component name will be listed in the error or warning.
 
 
-![](images/UIBuilder.pdf-597-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-597-1.png)
 
 
 6. Select the component with the issue and follow the instructions listed
@@ -14424,7 +14424,7 @@ for more information on creating experiences.
 4. In the upper right, select the Now Assist icon to open the
 Now Assist panel.
 
-![](images/UIBuilder.pdf-599-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-599-1.png)
 
 
 **Tip:** You can select the pin icon to keep the panel
@@ -14433,7 +14433,7 @@ visible while you work.
 
 5. Enter your question in the text field.
 
-![](images/UIBuilder.pdf-599-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-599-2.png)
 
 
 6. Press the Enter key or select the **Send** button.
@@ -14441,7 +14441,7 @@ Conversational Help uses generative AI to provide immediate
 answers to your questions.
 
 
-![](images/UIBuilder.pdf-600-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-600-1.png)
 
 
 7. (Optional) Continue the conversation with follow-up questions as
@@ -14578,7 +14578,7 @@ page.
 |Floating menu above page|Select the floating menu above<br>your component.|
 
 
-![](images/UIBuilder.pdf-603-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-603-1.png)
 
 
 |To add a component|Do the following|
@@ -14587,7 +14587,7 @@ page.
 |Content tree|You can add a component<br>from the content tree in the<br>following two ways.<br>**•** Select**+Add content**<br>beneath a container in the<br>content tree. Then choose<br>a component from the<br>toolbox.<br>**•** Move your mouse device<br>over a container in the<br>content tree, select the<br>**Menu** icon, and select**Add**<br>**component**. Then choose|
 
 
-![](images/UIBuilder.pdf-604-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-604-1.png)
 
 
 |To add a component|Do the following|
@@ -14595,7 +14595,7 @@ page.
 ||a component from the<br>toolbox.|
 
 
-![](images/UIBuilder.pdf-605-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-605-1.png)
 
 
 6. Now configure the properties of the components that you just
@@ -14648,7 +14648,7 @@ delete, or move the position of array items. You can also select
 simplified editing experience.
 
 
-![](images/UIBuilder.pdf-607-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-607-1.png)
 
 
 e. When working with a container component, you can edit some
@@ -14658,7 +14658,7 @@ styles by using the floating panels.
 Select the **Menu** icon to view a menu.
 
 
-![](images/UIBuilder.pdf-608-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-608-1.png)
 
 
 Select the **Layout**, **Sizing**, or **Spacing** option to open a floating
@@ -14666,7 +14666,7 @@ panel with the most common options displayed. Drag the
 floating panel to another location as needed. Only one floating
 panel can be open at a time.
 
-![](images/UIBuilder.pdf-608-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-608-2.png)
 
 
 [For more information about configuring components, see Next](https://developer.servicenow.com/dev.do#!/reference/now-experience/rome/components)
@@ -14722,7 +14722,7 @@ it after.
 the top or bottom of the components on the page (the **+** changes to
 **+ Add** ).
 
-![](images/UIBuilder.pdf-610-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-610-1.png)
 
 
 a. Select the **+** at the top of your component to add a component
@@ -15028,7 +15028,7 @@ d. In the **Max results** field, enter `5` .
 
 The **Look up multiple records** data resource is configured.
 
-![](images/UIBuilder.pdf-622-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-622-1.png)
 
 
 e. Close the modal.
@@ -15041,7 +15041,7 @@ See Organize components in UI Builder pages for more information.
 6. Add the repeater component to your page.
 
 
-![](images/UIBuilder.pdf-623-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-623-1.png)
 
 
 For information about adding components, see Add and configure
@@ -15076,14 +15076,14 @@ The results from the data resource are bound to the repeater
 component. Within the repeater, one component represents
 each result.
 
-![](images/UIBuilder.pdf-624-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-624-1.png)
 
 
 9. Under the repeater that you added in the previous step, select **+ Add**
 **content** .
 
 
-![](images/UIBuilder.pdf-625-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-625-1.png)
 
 
 10. Add a **Heading** component.
@@ -15125,7 +15125,7 @@ f. Select **Apply** .
 The **displayValue** is bound to the Heading component.
 
 
-![](images/UIBuilder.pdf-626-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-626-1.png)
 
 
 13. Select **Save** .
@@ -15136,14 +15136,14 @@ stage and is repeated five times, once for each result returned from
 the Incident table.
 
 
-![](images/UIBuilder.pdf-627-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-627-1.png)
 
 
 14. View and test your page by selecting the **Preview** button.
 A tab opens to display the page preview with repeated data.
 
 
-![](images/UIBuilder.pdf-628-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-628-1.png)
 
 ## **Optimize page loading performance (Advanced** **Feature)**
 
@@ -15184,13 +15184,13 @@ performance settings.
 
 6. Select **Manage performance settings** .
 
-![](images/UIBuilder.pdf-629-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-629-1.png)
 
 
 The **Advanced performance settings** modal opens.
 
 
-![](images/UIBuilder.pdf-630-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-630-1.png)
 
 
 7. Select how components load onto a page.
@@ -15246,7 +15246,7 @@ components dynamic, which means that you don't have to recreate
 data for every page.
 
 
-![](images/UIBuilder.pdf-632-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-632-1.png)
 
 
 Data resources are found in the data resource drawer. The data resource
@@ -15257,7 +15257,7 @@ between components on your page and ServiceNow tables/data.
 
 Data Resource Drawer
 
-![](images/UIBuilder.pdf-633-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-633-1.png)
 
 
 The data resource drawer contains three sections:
@@ -15318,7 +15318,7 @@ Workspace application has only a few data resources.
 
 Data resources
 
-![](images/UIBuilder.pdf-635-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-635-1.png)
 
 
 You see different data resources depending on the application that you
@@ -15433,7 +15433,7 @@ it. You can use this info by connecting it to your page's properties, kind
 of like linking puzzle pieces together. If you get this information from the
 frame, you don't have to get it again yourself.
 
-![](images/UIBuilder.pdf-638-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-638-1.png)
 
 
 Local data resources are items you add to a UI Builder page yourself.
@@ -15505,7 +15505,7 @@ Speeds up initial page loading.
 
 Data resource evaluation options
 
-![](images/UIBuilder.pdf-640-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-640-1.png)
 
 
 **UI Builder Data resource scripts**
@@ -15645,21 +15645,21 @@ resource to it.
 6. Select **Data resource** .
 
 
-![](images/UIBuilder.pdf-643-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-643-1.png)
 
 
 7. Select a data resource to add to your page.
 For example, you could select **Look up a single record** .
 
 
-![](images/UIBuilder.pdf-644-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-644-1.png)
 
 
 8. Select **Add** to add the data resource to your page.
 The Data Resource configuration modal appears.
 
 
-![](images/UIBuilder.pdf-645-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-645-1.png)
 
 
 9. Fill in the required information for the data resource in the **Configure**
@@ -15673,13 +15673,13 @@ page. The errors remain until the required Data Resource fields have
 
 been filled.
 
-![](images/UIBuilder.pdf-646-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-646-1.png)
 
 
 10. Select the default label to provide a custom label and ID value.
 
 
-![](images/UIBuilder.pdf-647-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-647-1.png)
 
 
 The data resource appears in the data and scripts drawer.
@@ -15780,7 +15780,7 @@ For this example, select **Generate Content** .
 
 **Tip:** Select **Hide inactive** to remove inactive skills from view.
 
-![](images/UIBuilder.pdf-649-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-649-1.png)
 
 
 **Note:** Skills that are enabled in Now Assist Skill Kit but not
@@ -15824,7 +15824,7 @@ field. By using this property as the input to the skill, you set the skill
 to trigger whenever the user enters text.
 
 
-![](images/UIBuilder.pdf-651-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-651-1.png)
 
 
 f. Select **Add** .
@@ -15864,7 +15864,7 @@ g. Navigate through the pills by selecting **Generate Content**, then
 h. Select **Apply** .
 
 
-![](images/UIBuilder.pdf-653-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-653-1.png)
 
 10. Select **Save** .
 
@@ -15872,7 +15872,7 @@ h. Select **Apply** .
 11. Select **Preview** to test the skill.
 
 
-![](images/UIBuilder.pdf-654-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-654-1.png)
 
 
 **Result**
@@ -15910,7 +15910,7 @@ are configured on your page by opening the data resources drawer.
 
 Controller in the Data resource drawer
 
-![](images/UIBuilder.pdf-656-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-656-1.png)
 
 
 **Types of data controllers in UI Builder**
@@ -15949,7 +15949,7 @@ highlighted in the component library.
 
 Components with presets
 
-![](images/UIBuilder.pdf-658-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-658-1.png)
 
 
 **Add a controller**
@@ -15994,7 +15994,7 @@ Create a page in UI Builder.
 5. Select **Data resource** .
 
 
-![](images/UIBuilder.pdf-660-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-660-1.png)
 
 
 6. Enter `form` in the search field.
@@ -16006,12 +16006,12 @@ Create a page in UI Builder.
 8. Select **Add** .
 
 
-![](images/UIBuilder.pdf-661-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-661-1.png)
 
 9. Fill in the fields to configure the controller.
 
 
-![](images/UIBuilder.pdf-662-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-662-1.png)
 
 
 **Result**
@@ -16020,7 +16020,7 @@ Create a page in UI Builder.
 The form controller displays in the **Data resources** section.
 
 
-![](images/UIBuilder.pdf-663-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-663-1.png)
 
 
 **Edit a controller**
@@ -16055,7 +16055,7 @@ Create a page in UI Builder.
 4. Select the controller that you want to edit in the **Data and scripts**
 drawer.
 
-![](images/UIBuilder.pdf-664-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-664-1.png)
 
 
 5. On the form, fill in the fields.
@@ -16116,12 +16116,12 @@ applications in UI Builder.
 4. Select the **Menu** icon ( ) next to the controller you want to delete.
 
 
-![](images/UIBuilder.pdf-666-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-666-1.png)
 
 5. Select **Delete** .
 
 
-![](images/UIBuilder.pdf-667-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-667-1.png)
 
 
 The controller is removed from the local data resource instances.
@@ -16167,14 +16167,14 @@ use this path to view the current values for the record for which the
 controller has been configured.
 
 
-![](images/UIBuilder.pdf-669-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-669-1.png)
 
 
 1. To view the data resources for a component, select the data icon in
 the lower left sidebar.
 
 
-![](images/UIBuilder.pdf-670-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-670-1.png)
 
 
 The three column UIB data inspector appears.
@@ -16196,7 +16196,7 @@ before it's saved. This allows you to perform actions in a newly
 created record such as saving attachments.
 
 
-![](images/UIBuilder.pdf-671-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-671-1.png)
 
 
 3. Select **top level outputs** in the third column.
@@ -16210,7 +16210,7 @@ for presets and scripts to use. Other properties at that level are some
 common properties that apply to all records.
 
 
-![](images/UIBuilder.pdf-672-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-672-1.png)
 
 
 When the preset maps a component property to controller output,
@@ -16224,7 +16224,7 @@ In this example, the mapping in the preset results in a path to
 `@data.gform.table` .
 
 
-![](images/UIBuilder.pdf-673-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-673-1.png)
 
 
 4. To view data below the top level, select the child category indicated
@@ -16240,14 +16240,14 @@ as `@data.gform.form.view` . That preset value displays forms in the
 **workspace** view.
 
 
-![](images/UIBuilder.pdf-674-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-674-1.png)
 
 
 In this example, multiple controller output properties are used in a
 formula expression to build an object.
 
 
-![](images/UIBuilder.pdf-675-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-675-1.png)
 
 
 5. To view a scripted property value, select the lock icon next to the
@@ -16258,7 +16258,7 @@ This puts the property into edit mode and opens a modal for editing
 the script.
 
 
-![](images/UIBuilder.pdf-676-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-676-1.png)
 
 
 **Viewing events in the Controller API**
@@ -16284,14 +16284,14 @@ A modal appears showing the payload properties for the preset
 event. You can **Disable** the event in this modal.
 
 
-![](images/UIBuilder.pdf-677-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-677-1.png)
 
 
 3. To add an event handler to the event, select **+ Add event handler**
 under the event tile.
 
 
-![](images/UIBuilder.pdf-678-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-678-1.png)
 
 
 A modal appears, showing a list of available, handled events. You
@@ -16305,7 +16305,7 @@ one of the controllers listed.
 The new handler is listed under the event tile.
 
 
-![](images/UIBuilder.pdf-679-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-679-1.png)
 
 ## **Create custom controllers (Advanced feature)**
 
@@ -16339,16 +16339,16 @@ Role required: ui_builder_admin
 **Create a page collection form**
 
 
-![](images/UIBuilder.pdf-679-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-679-2.png)
 
 
-![](images/UIBuilder.pdf-680-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-680-1.png)
 
 
 5. Select **Create** .
 The controller building window opens.
 
-![](images/UIBuilder.pdf-680-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-680-2.png)
 
 
 6. Add data resources.
@@ -16452,13 +16452,13 @@ resources to components on your UI Builder page.
 
 **Data binding modal**
 
-![](images/UIBuilder.pdf-682-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-682-1.png)
 
 
 **Data binding modal options**
 
 
-![](images/UIBuilder.pdf-683-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-683-1.png)
 
 
 |Undo|Undo the previous change.|
@@ -16483,14 +16483,14 @@ and editing JSON.
 
 Use this method if you want to use a visual process.
 
-![](images/UIBuilder.pdf-684-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-684-1.png)
 
 
 Use the search bar to find the data you would like to bind to your
 component.
 
 
-![](images/UIBuilder.pdf-685-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-685-1.png)
 
 
 **Binding data by editing JSON**
@@ -16500,7 +16500,7 @@ Use this method if you are comfortable working in and editing JSON
 code.
 
 
-![](images/UIBuilder.pdf-686-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-686-1.png)
 
 
 **•** Connect data to your components
@@ -16571,13 +16571,13 @@ using components.
 
 data binding icon ( ).
 
-![](images/UIBuilder.pdf-687-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-687-1.png)
 
 
 The data binding modal appears.
 
 
-![](images/UIBuilder.pdf-688-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-688-1.png)
 
 
 8. Select **Data resource** in the **Data types** tab.
@@ -16586,7 +16586,7 @@ The data binding modal appears.
 9. Select the data resource that you want to bind to the component.
 
 
-![](images/UIBuilder.pdf-689-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-689-1.png)
 
 
 10. Select and drag the data you want to bind to the component into
@@ -16597,7 +16597,7 @@ You may have to select several pills to get to a specific property
 value or display value.
 
 
-![](images/UIBuilder.pdf-690-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-690-1.png)
 
 
 11. Select **Apply** .
@@ -16607,7 +16607,7 @@ The component displays the property value or display value that
 you've selected.
 
 
-![](images/UIBuilder.pdf-691-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-691-1.png)
 
 
 12. Select **Save** in the UI Builder header.
@@ -16667,13 +16667,13 @@ using components.
 
 data binding icon ( ).
 
-![](images/UIBuilder.pdf-692-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-692-1.png)
 
 
 The data binding modal appears.
 
 
-![](images/UIBuilder.pdf-693-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-693-1.png)
 
 
 8. Select the **Formulas** tab.
@@ -16683,7 +16683,7 @@ The data binding modal appears.
 the field above.
 
 
-![](images/UIBuilder.pdf-694-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-694-1.png)
 
 
 For more information about formulas, see Supported functions in the
@@ -16693,7 +16693,7 @@ UI Builder component formula editor.
 10. Fill in the fields of the formula.
 
 
-![](images/UIBuilder.pdf-695-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-695-1.png)
 
 
 11. Select **Apply** .
@@ -16702,7 +16702,7 @@ UI Builder component formula editor.
 The component displays the property value or display value that
 you've selected.
 
-![](images/UIBuilder.pdf-695-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-695-2.png)
 
 
 12. Select **Save** in the UI Builder header.
@@ -16742,7 +16742,7 @@ include:
 
 **•** Alerting a user to incomplete or incorrect data
 
-![](images/UIBuilder.pdf-696-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-696-1.png)
 
 
 Users sometimes interact with pages in order to navigate to other pages.
@@ -16751,7 +16751,7 @@ appearance, or data. Rather than refreshing the entire page, client-side
 interactions update only the affected parts of a page.
 
 
-![](images/UIBuilder.pdf-697-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-697-1.png)
 
 
 For example, a user can sort a list by clicking a column header. Sorting
@@ -16793,7 +16793,7 @@ state parameter, each component that uses a value would need to be
 updated individually if that value changed.
 
 
-![](images/UIBuilder.pdf-698-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-698-1.png)
 
 
 For example, a web experience stores the primary color used by
@@ -16802,7 +16802,7 @@ are configured to use the client state parameter, changing the value of
 the client state parameter updates the components to the new value.
 
 
-![](images/UIBuilder.pdf-699-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-699-1.png)
 
 
 Buttons can be added to the experience to allow users to select a color
@@ -16830,7 +16830,7 @@ The client state panel contains two sections:
 **•** Client state preview: The JSON for the page's client state parameters
 
 
-![](images/UIBuilder.pdf-700-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-700-1.png)
 
 
 **Creating client state parameters**
@@ -16840,7 +16840,7 @@ To add a client state parameter to a page, click the **+ Add** button in the
 client state parameters section.
 
 
-![](images/UIBuilder.pdf-701-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-701-1.png)
 
 
 Client state parameters have three configuration fields.
@@ -16877,7 +16877,7 @@ In the example, the client state panel has two client state parameters.
 ```
  Occasions
 
-![](images/UIBuilder.pdf-702-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-702-1.png)
 
 ```
 
@@ -16902,7 +16902,7 @@ component to set the list's title and filter. A button will be used to update
 the values of these client state parameters to dynamically update the list.
 
 
-![](images/UIBuilder.pdf-703-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-703-1.png)
 
 
 **Binding client state parameters**
@@ -16918,7 +16918,7 @@ parameter to the field value. In the example, the **Dynamic data binding**
 button is highlighted for the Occasion List component's filter field.
 
 
-![](images/UIBuilder.pdf-704-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-704-1.png)
 
 
 The character @ indicates data binding and the state object contains
@@ -16928,7 +16928,7 @@ state parameter. The default value for the `occasionTypeQuery` client
 state parameter is empty, so no filter will be applied by default.
 
 
-![](images/UIBuilder.pdf-705-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-705-1.png)
 
 
 The Title for the component is set in a similar manner: select the
@@ -16939,13 +16939,13 @@ is `All Special Occansions` . The example shows both Title and Filter
 configured to use client state parameters.
 
 
-![](images/UIBuilder.pdf-706-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-706-1.png)
 
 
 With both client state parameters applied, no filter is applied to the list
 and the title is `All Special Occasions` .
 
-![](images/UIBuilder.pdf-706-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-706-2.png)
 
 
 The `occasionTypeQuery` and `occasionListTitle` client state
@@ -16975,7 +16975,7 @@ parameter to `special_occasion=birthday`, which will filter the list to
 only show birthdays.
 
 
-![](images/UIBuilder.pdf-708-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-708-1.png)
 
 
 When the **Button clicked** event is mapped to event handlers to update
@@ -16985,7 +16985,7 @@ which automatically updates the `Occasion List` component with the
 new values.
 
 
-![](images/UIBuilder.pdf-709-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-709-1.png)
 
 
 **•** Using client state parameters in UI Builder
@@ -17043,7 +17043,7 @@ under **Body** .
 tree under **Column 1** .
 
 
-![](images/UIBuilder.pdf-711-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-711-1.png)
 
 a. In **Search**, type `sty` .
 
@@ -17051,13 +17051,13 @@ a. In **Search**, type `sty` .
 b. Select the **Stylized text** component.
 
 
-![](images/UIBuilder.pdf-712-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-712-1.png)
 
 
 c. In the configuration panel, select **None - Configure the**
 **component manually** .
 
-![](images/UIBuilder.pdf-712-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-712-2.png)
 
 
 7. Add the second component by selecting **+ Add content** in the
@@ -17069,7 +17069,7 @@ a. In **Search**, type `button` .
 
 b. Select **Button Iconic** .
 
-![](images/UIBuilder.pdf-713-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-713-1.png)
 
 
 c. In the configuration panel, select **None - Configure the**
@@ -17078,13 +17078,13 @@ c. In the configuration panel, select **None - Configure the**
 
 d. In **Icon**, select **Square Arrow Up Fill** .
 
-![](images/UIBuilder.pdf-713-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-713-2.png)
 
 
 8. Add the third component by pointing to **Button iconic 1** in the
 content tree, selecting the **Menu** icon, and selecting **Add after** .
 
-![](images/UIBuilder.pdf-714-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-714-1.png)
 
 
 a. In **Search**, type `button` as you did in the previous step.
@@ -17101,14 +17101,14 @@ d. In **Icon**, select a different icon this time, the one named **Square**
 **Arrow Down Fill** .
 
 
-![](images/UIBuilder.pdf-715-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-715-1.png)
 
 
 9. Select **Save** .
 The stylized text component and the two button iconic components
 are saved and appear on the stage.
 
-![](images/UIBuilder.pdf-715-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-715-2.png)
 
 
 10. Add a client state parameter by going to **Data and scripts**, pointing
@@ -17127,7 +17127,7 @@ c. Set the **Initial value** by entering the number `0` .
 d. Select the **X** to close the window.
 
 
-![](images/UIBuilder.pdf-716-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-716-1.png)
 
 
 11. Bind the stylized text component to the client state parameter.
@@ -17139,7 +17139,7 @@ a. Select the stylized text component on the stage.
 b. In the configuration panel, point to the **Text** field and select the
 **Bind data or use scripts** icon.
 
-![](images/UIBuilder.pdf-716-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-716-2.png)
 
 
 c. On the **Data types** tab, select **Client states** .
@@ -17151,7 +17151,7 @@ d. Double-click on the **count** pill.
 e. Select **Apply** .
 
 
-![](images/UIBuilder.pdf-717-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-717-1.png)
 
 
 The **Text** field changes to **count** .
@@ -17179,7 +17179,7 @@ e. In **Client State Parameter Name**, select **count** .
 f. Point to the **New Value** field and select the **Bind data or use**
 **scripts** icon.
 
-![](images/UIBuilder.pdf-717-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-717-2.png)
 
 
 g. On the **Data types** tab, select **Client states** .
@@ -17199,7 +17199,7 @@ k. Double-click on the **ADD** pill.
 
 l. In the **right** pill at the top, remove the text and enter `1` .
 
-![](images/UIBuilder.pdf-718-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-718-1.png)
 
 
 m. Select **Apply** .
@@ -17263,7 +17263,7 @@ n. Select **Add** .
 15. Select the up arrow button to increase the count and the down
 arrow button to decrease the count.
 
-![](images/UIBuilder.pdf-719-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-719-1.png)
 
 
 **Result**
@@ -17339,13 +17339,13 @@ For more information, see Add and configure components.
 5. To define a client state parameter with an associated value, select
 Client state parameters in the lower-left panel.
 
-![](images/UIBuilder.pdf-721-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-721-1.png)
 
 
 6. Select **+ Add** .
 
 
-![](images/UIBuilder.pdf-722-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-722-1.png)
 
 
 7. Enter a name for the client state name, type, and initial value.
@@ -17356,7 +17356,7 @@ example, you could enter the name as `dynamic_label_value`, the
 type as `String`, and the initial value as `Initial Value` .
 
 
-![](images/UIBuilder.pdf-723-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-723-1.png)
 
 
 8. Bind the value of the client state parameter to your component.
@@ -17375,12 +17375,12 @@ c. Point to the field that you want to bind data to and select the
 dynamic data binding icon ( ).
 
 
-![](images/UIBuilder.pdf-724-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-724-1.png)
 
 The data binding modal appears.
 
 
-![](images/UIBuilder.pdf-725-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-725-1.png)
 
 
 d. Select **Client states** in the **Data types** tab.
@@ -17390,12 +17390,12 @@ e. Double-click the client script that you want to bind to the
 component.
 
 
-![](images/UIBuilder.pdf-726-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-726-1.png)
 
 f. Select **Apply** .
 
 
-![](images/UIBuilder.pdf-727-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-727-1.png)
 
 
 9. Select **Save** .
@@ -17408,7 +17408,7 @@ connect the second component to the first.
 a. In the left pane, select the **+** icon next to **Client scripts** .
 
 
-![](images/UIBuilder.pdf-728-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-728-1.png)
 
 
 b. Enter a script name that describes the task.
@@ -17425,7 +17425,7 @@ the `api.setState`, and include the `dynamic_label_value` as
 the first parameter, and a `NEW VALUE` as the second parameter.
 
 
-![](images/UIBuilder.pdf-729-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-729-1.png)
 
 
 11. Add an event handler to your second component to call the new
@@ -17447,7 +17447,7 @@ you created, and select **+** to add it as an event handler for the
 component.
 
 
-![](images/UIBuilder.pdf-730-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-730-1.png)
 
 
 12. Select **Save** .
@@ -17555,7 +17555,7 @@ information, see Add and configure components.
 
 5. Select **+** next to **Client scripts** .
 
-![](images/UIBuilder.pdf-732-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-732-1.png)
 
 
 6. Name your script.
@@ -17572,7 +17572,7 @@ handler. The following example shows a simple date client script.
 For example, you could write a simple
 date script that you bind to a component.
 
-![](images/UIBuilder.pdf-733-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-733-1.png)
 
 
 8. (Optional) Add a **Script include** or **Associated components**, which
@@ -17590,7 +17590,7 @@ under **Scripts**, and then select **Add** .
 The following example shows a date client script.
 
 
-![](images/UIBuilder.pdf-734-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-734-1.png)
 
 
 11. Select **Save** .
@@ -17620,7 +17620,7 @@ configuration to pull data from different sources to display on the cards.
 locations.
 
 
-![](images/UIBuilder.pdf-735-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-735-1.png)
 
 
 **Note:** You can configure more than one multi-table data resource
@@ -17686,7 +17686,7 @@ page in UI Builder.
 
 a. In the data shelf, select **+ Add data resource** .
 
-![](images/UIBuilder.pdf-736-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-736-1.png)
 
 
 b. In **Search**, enter `multi-table` .
@@ -17695,7 +17695,7 @@ b. In **Search**, enter `multi-table` .
 c. Select **Multi-table data** .
 
 
-![](images/UIBuilder.pdf-737-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-737-1.png)
 
 
 d. Select **Add** .
@@ -17706,7 +17706,7 @@ d. Select **Add** .
 
 a. In **Data sources**, select **+ Add** .
 
-![](images/UIBuilder.pdf-737-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-737-2.png)
 
 
 b. In **Table**, enter `incident` and select the **Incident** table.
@@ -17720,7 +17720,7 @@ d. In **Name**, enter `Incident` .
 
 e. In **Return fields**, add **Number**, **State**, **Description**, and **Active** .
 
-![](images/UIBuilder.pdf-738-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-738-1.png)
 
 
 f. Select **Edit conditions** .
@@ -17735,7 +17735,7 @@ h. Select **and** .
 i. Build the condition **Created on Last 2 years** .
 
 
-![](images/UIBuilder.pdf-739-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-739-1.png)
 
 
 j. Select **Apply** .
@@ -17766,7 +17766,7 @@ order. This helps ensure that the data displayed on the page is
 consistent and accurate.
 
 
-![](images/UIBuilder.pdf-740-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-740-1.png)
 
 
 f. Select **Edit conditions** .
@@ -17813,7 +17813,7 @@ e. In **Label**, delete the default text and enter `Active incidents`
 
 `and problems created in last two years` .
 
-![](images/UIBuilder.pdf-741-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-741-1.png)
 
 
 f. Select **Save** .
@@ -17827,7 +17827,7 @@ a. In the content tree, select **+ Add content** under **Heading 1** .
 
 b. On the **Layouts** tab, in the **Advanced** section, select **Flexbox** .
 
-![](images/UIBuilder.pdf-741-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-741-2.png)
 
 
 c. In the configuration panel, on the **Configure** tab, select **None -**
@@ -17836,7 +17836,7 @@ c. In the configuration panel, on the **Configure** tab, select **None -**
 
 d. In **Sizing**, set the **Width** by entering `300` .
 
-![](images/UIBuilder.pdf-742-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-742-1.png)
 
 
 e. Select **Save** .
@@ -17865,7 +17865,7 @@ f. In the configuration panel, on the **Configure** tab, hover over the
 **Data array** field and select the bind data icon.
 
 
-![](images/UIBuilder.pdf-743-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-743-1.png)
 
 
 g. Under **Data types** select **Data resource** .
@@ -17880,13 +17880,13 @@ i. Select **output > data > GlideMultiDatasource_Query >**
 
 j. Double-click (or use the keyboard shortcut) on the **items** pill.
 
-![](images/UIBuilder.pdf-743-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-743-2.png)
 
 
 Check that the top section is accurate.
 
 
-![](images/UIBuilder.pdf-744-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-744-1.png)
 
 
 k. Select **Apply** .
@@ -17915,7 +17915,7 @@ e. To add a little space around the cards, go to **Spacing**, select
 **Margin**, and then select **M** (for medium).
 
 
-![](images/UIBuilder.pdf-745-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-745-1.png)
 
 
 f. Select **Save** .
@@ -17955,12 +17955,12 @@ with an incident or problem number.
 i. Double-click (or use the keyboard shortcut) on the **displayValue**
 pill with an incident or problem number.
 
-![](images/UIBuilder.pdf-746-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-746-1.png)
 
 
 Check that the top section is accurate.
 
-![](images/UIBuilder.pdf-746-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-746-2.png)
 
 
 j. Select **Apply** .
@@ -17969,7 +17969,7 @@ j. Select **Apply** .
 k. On the **Configure** tab, select the **Hide bottom margin** option.
 
 
-![](images/UIBuilder.pdf-747-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-747-1.png)
 
 
 l. Select **Save** .
@@ -17983,7 +17983,7 @@ a. In the content tree, point to **Heading 2**, select the menu (three
 vertical dots) icon, and select **Add after** .
 
 
-![](images/UIBuilder.pdf-748-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-748-1.png)
 
 
 b. Locate and select the **Stylized text** component.
@@ -18013,12 +18013,12 @@ h. Select the third pill in the list and in the last column check that the
 i. Double-click (or use the keyboard shortcut) on the **displayValue**
 pill with no value.
 
-![](images/UIBuilder.pdf-749-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-749-1.png)
 
 
 Check that the top section is accurate.
 
-![](images/UIBuilder.pdf-749-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-749-2.png)
 
 
 j. Select **Apply** .
@@ -18067,12 +18067,12 @@ that the **displayValue** contains a state such as **Resolved** or **In**
 i. Double-click (or use the keyboard shortcut) on the **displayValue**
 pill with a state value.
 
-![](images/UIBuilder.pdf-750-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-750-1.png)
 
 
 Check that the top section is accurate.
 
-![](images/UIBuilder.pdf-750-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-750-2.png)
 
 
 j. Select **Apply** .
@@ -18092,7 +18092,7 @@ the incident or problem number. The cards also show the description
 is being pulled successfully from two sources: the incident table and
 the problem table.
 
-![](images/UIBuilder.pdf-751-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-751-1.png)
 
 
 16. Select the **X** to close the preview overlay.
@@ -18154,16 +18154,16 @@ component.
 
 EVAM data resources
 
-![](images/UIBuilder.pdf-753-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-753-1.png)
 
 
 **EVAM data sources**
 
 
-![](images/UIBuilder.pdf-753-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-753-2.png)
 
 
-![](images/UIBuilder.pdf-754-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-754-1.png)
 
 
 |EVAM data source|Description EVAM Data Resource|
@@ -18172,10 +18172,10 @@ EVAM data resources
 |Fetch EVAM Data|To add an EVAM definition and<br>other information about the data<br>source, select**Configuration**.<br>**•** Type: GRAPHQL.<br>**•** When to evaluate: To have the<br>EVAM data resource instance<br>evaluated on a page load,<br>select**Immediately**. To use an<br>event handler to evaluate the<br>EVAM data resource, select**Only**<br>**when invoked**.<br>**•** EVAM definition: In the**EVAM**<br>**Definition** field, enter the|
 
 
-![](images/UIBuilder.pdf-755-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-755-1.png)
 
 
-![](images/UIBuilder.pdf-756-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-756-1.png)
 
 
 |EVAM data source|Description|
@@ -18184,22 +18184,22 @@ EVAM data resources
 |Fetch EVAM Metadata|To select when to evaluate<br>the EVAM data resource and<br>add an EVAM definition, select<br>**Configuration**.<br>**•** Type: GRAPHQL.<br>**•** When to evaluate: To have the<br>EVAM data resource instance<br>evaluated on a page load,<br>select**Immediately**. To use an<br>event handler to evaluate the<br>EVAM data resource, select**Only**<br>**when invoked**.|
 
 
-![](images/UIBuilder.pdf-757-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-757-1.png)
 
 
-![](images/UIBuilder.pdf-758-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-758-2.png)
 
 
-![](images/UIBuilder.pdf-758-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-758-1.png)
 
 
-![](images/UIBuilder.pdf-759-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-759-1.png)
 
 
-![](images/UIBuilder.pdf-760-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-760-2.png)
 
 
-![](images/UIBuilder.pdf-760-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-760-1.png)
 
 **•** Add an Entity View Action Mapper data resource to a page
 
@@ -18247,7 +18247,7 @@ For more information, see Add and configure components.
 **resource** .
 
 
-![](images/UIBuilder.pdf-762-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-762-1.png)
 
 
 6. Enter `evam` in the search field.
@@ -18257,7 +18257,7 @@ For more information, see Add and configure components.
 step for all the EVAM data resources for your page.
 
 
-![](images/UIBuilder.pdf-763-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-763-1.png)
 
 8. Configure each EVAM data resource.
 
@@ -18265,10 +18265,10 @@ step for all the EVAM data resources for your page.
 **EVAM data sources**
 
 
-![](images/UIBuilder.pdf-763-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-763-2.png)
 
 
-![](images/UIBuilder.pdf-764-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-764-1.png)
 
 
 |EVAM data source|Description Configuration pane, preview the|
@@ -18277,10 +18277,10 @@ step for all the EVAM data resources for your page.
 |Fetch EVAM Data|To add an EVAM definition<br>and other information about<br>the data source, select<br>**Configuration**.<br>**•** Type: GRAPHQL.<br>**•** When to evaluate: To<br>have the EVAM data<br>resource instance evaluated<br>on a page load, select<br>**Immediately**. To use an<br>event handler to evaluate<br>the EVAM data resource,<br>select**Only when invoked**.<br>**•** EVAM definition: In the**EVAM**<br>**Definition** field, add the<br>EVAM definition record that<br>is associated with the data<br>resource.|
 
 
-![](images/UIBuilder.pdf-765-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-765-1.png)
 
 
-![](images/UIBuilder.pdf-766-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-766-1.png)
 
 
 |EVAM data source|Description|
@@ -18289,10 +18289,10 @@ step for all the EVAM data resources for your page.
 |Fetch EVAM Metadata|To select when to evaluate<br>the EVAM data resource and<br>add an EVAM definition, select<br>**Configuration**.<br>**•** Type: GRAPHQL.<br>**•** When to evaluate: To<br>have the EVAM data<br>resource instance evaluated<br>on a page load, select<br>**Immediately**. To use an<br>event handler to evaluate|
 
 
-![](images/UIBuilder.pdf-767-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-767-1.png)
 
 
-![](images/UIBuilder.pdf-768-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-768-1.png)
 
 
 |EVAM data source|Description|
@@ -18301,19 +18301,19 @@ step for all the EVAM data resources for your page.
 |Search EVAM Data Resource|To add an EVAM definition<br>and other information about<br>the data source, select<br>**Configuration**.<br>**•** Type: Composite.|
 
 
-![](images/UIBuilder.pdf-769-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-769-1.png)
 
 
-![](images/UIBuilder.pdf-770-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-770-1.png)
 
 
-![](images/UIBuilder.pdf-771-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-771-1.png)
 
 
-![](images/UIBuilder.pdf-772-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-772-2.png)
 
 
-![](images/UIBuilder.pdf-772-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-772-1.png)
 
 9. Configure your data set component:
 
@@ -18334,7 +18334,7 @@ the grid or list view of the EVAM information on the page.
 11. View and test your page by selecting the **Preview** button.
 Finished state of the EVAM
 
-![](images/UIBuilder.pdf-773-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-773-1.png)
 
 ## Edit code with the Now Code Editor (advanced feature)
 
@@ -18422,7 +18422,7 @@ JavaScript.
 |Add logpoint|Right-click beside a line number in the ruler<br>area and select**Add logpoint**.|
 
 
-![](images/UIBuilder.pdf-777-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-777-1.png)
 
 
 **Code editor macros**
@@ -18660,12 +18660,12 @@ in the header or the **Component** tile on the UI Builder home page.
 
 UI Builder home page
 
-![](images/UIBuilder.pdf-781-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-781-1.png)
 
 
 Component Builder UI
 
-![](images/UIBuilder.pdf-782-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-782-1.png)
 
 
 Components built with UI Builder can be found in the toolbox when
@@ -18676,7 +18676,7 @@ locating it in the components list on the home page of UI Builder.
 
 Component List
 
-![](images/UIBuilder.pdf-783-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-783-1.png)
 
 
 You can quickly duplicate a custom component from the component
@@ -18686,7 +18686,7 @@ the component for reuse or modification.
 
 Custom Component Settings
 
-![](images/UIBuilder.pdf-784-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-784-1.png)
 
 
 **Component Builder vs NOW CLI Component Development**
@@ -18787,7 +18787,7 @@ modified once it's placed onto a page.
 2. Select **Create** from the UI Builder home page.
 
 
-![](images/UIBuilder.pdf-787-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-787-1.png)
 
 3. Select **Component** .
 
@@ -18797,7 +18797,7 @@ modified once it's placed onto a page.
 
 Create a component dialog box
 
-![](images/UIBuilder.pdf-788-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-788-1.png)
 
 
 **Create a component form**
@@ -18819,14 +18819,14 @@ Create a component dialog box
 The page opens in Component Builder view.
 
 
-![](images/UIBuilder.pdf-790-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-790-1.png)
 
 
 6. Add a custom component property by selecting **+ Add property** in
 the **Properties and policy** section.
 
 
-![](images/UIBuilder.pdf-791-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-791-1.png)
 
 
 a. Select **String** from the list.
@@ -18838,7 +18838,7 @@ b. Enter the following values in the configuration panel.
 **Component properties**
 
 
-![](images/UIBuilder.pdf-791-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-791-2.png)
 
 
 **Field** **Value**
@@ -18848,7 +18848,7 @@ b. Enter the following values in the configuration panel.
 |Default value|`animateddino.svg`|
 
 
-![](images/UIBuilder.pdf-792-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-792-1.png)
 
 
 c. Select **Save** .
@@ -18880,7 +18880,7 @@ f. Select **Flexbox**, then select **Add** .
 
 g. Select **Save** .
 
-![](images/UIBuilder.pdf-793-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-793-1.png)
 
 
 8. Add a stylized text component in our Flexbox container by selecting
@@ -18895,7 +18895,7 @@ b. Select **Cancel** to close the preset window.
 
 c. Select **Save** .
 
-![](images/UIBuilder.pdf-794-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-794-1.png)
 
 
 9. To configure the stylized text component we will add some client
@@ -18921,12 +18921,12 @@ values:
 |stopwatchRunning|Boolean||
 
 
-![](images/UIBuilder.pdf-795-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-795-1.png)
 
 
 c. Select **Apply** .
 
-![](images/UIBuilder.pdf-795-2.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-795-2.png)
 
 
 d. Select **Save** .
@@ -18943,7 +18943,7 @@ b. Select the bind icon when pointing to the **Text** field of the stylized
 text component.
 
 
-![](images/UIBuilder.pdf-796-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-796-1.png)
 
 c. Select **Client states** .
 
@@ -18951,7 +18951,7 @@ c. Select **Client states** .
 d. Double-click the **elapsedTime** pill.
 
 
-![](images/UIBuilder.pdf-797-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-797-1.png)
 
 
 e. Select **Apply** .
@@ -18966,7 +18966,7 @@ f. Select **Save** .
 a. Select the **+** icon under the stylized text component.
 
 
-![](images/UIBuilder.pdf-798-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-798-1.png)
 
 
 b. Select **Layouts** .
@@ -19031,7 +19031,7 @@ h. Set the following properties in the configuration panel.
 i. Select **Save** .
 
 
-![](images/UIBuilder.pdf-800-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-800-1.png)
 
 
 13. Configure the stop button to display while the stopwatch is running.
@@ -19057,7 +19057,7 @@ c. In the **Edit settings** dialog, enter the following values:
 
 d. Select the bind icon while pointing at the **Condition** field.
 
-![](images/UIBuilder.pdf-801-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-801-1.png)
 
 
 e. Select **Client states**, then double-click the **stopwatchRunning** pill.
@@ -19104,7 +19104,7 @@ k. Set the following properties in the configuration panel.
 l. Select **Save** .
 
 
-![](images/UIBuilder.pdf-803-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-803-1.png)
 
 
 14. Reorder the conditions so that **Running** appears above **Start** .
@@ -19119,7 +19119,7 @@ b. In the configuration panel, select and drag the drag handle icon
 to move the conditions into position.
 
 
-![](images/UIBuilder.pdf-804-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-804-1.png)
 
 
 Conditions are evaluated in order from top to bottom, so **Running**
@@ -19244,7 +19244,7 @@ b. Paste the following script into the script field.
 
 c. Select **Apply** .
 
-![](images/UIBuilder.pdf-807-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-807-1.png)
 
 
 d. Select **+** next to **Client scripts** to add a second script.
@@ -19297,7 +19297,7 @@ b. Select **Add handler** under **Button iconic clicked**, then select the
 **Start** client script we created in the previous steps.
 
 
-![](images/UIBuilder.pdf-809-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-809-1.png)
 
 
 c. Select **Continue**, then select **Add** .
@@ -19319,7 +19319,7 @@ g. Select **Save** .
 
 17. Select **Preview** to test the configured components.
 
-![](images/UIBuilder.pdf-810-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-810-1.png)
 
 
 **Result**
@@ -19403,7 +19403,7 @@ the appropriate table name.
 
 2. Select **Create** from the UI Builder home page.
 
-![](images/UIBuilder.pdf-812-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-812-1.png)
 
 
 3. Select **Component** .
@@ -19448,7 +19448,7 @@ property.
 e. Select **Add** .
 
 
-![](images/UIBuilder.pdf-814-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-814-1.png)
 
 7. Create the component.
 
@@ -19501,6 +19501,6 @@ for use in a page.
 List controller and display the table name.
 
 
-![](images/UIBuilder.pdf-816-1.png)
+![](https://raw.githubusercontent.com/therealatreides/sn_docs/refs/heads/main/UIBuilder/images/UIBuilder.pdf-816-1.png)
 
 
